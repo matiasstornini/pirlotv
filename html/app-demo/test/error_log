@@ -1,0 +1,20 @@
+[15-Jul-2020 16:53:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/test/premier2.php on line 12
+[15-Jul-2020 16:53:50 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/test/premier2.php on line 12
+[15-Jul-2020 16:53:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: htmlCont in /home/adiccion/public_html/app-demo/test/premier2.php on line 58
+[15-Jul-2020 16:53:50 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/test/premier2.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/adiccion/public_html/app-demo/test/premier2.php on line 58
+[15-Jul-2020 16:53:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/test/premier2.php on line 12
+[15-Jul-2020 16:53:51 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/test/premier2.php on line 12
+[15-Jul-2020 16:53:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: htmlCont in /home/adiccion/public_html/app-demo/test/premier2.php on line 58
+[15-Jul-2020 16:53:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/test/premier2.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/adiccion/public_html/app-demo/test/premier2.php on line 58
+[15-Jul-2020 16:59:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: esp1sd1 in /home/adiccion/public_html/app-demo/test/switch.php on line 1
+[15-Jul-2020 16:59:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: esp1sd1 in /home/adiccion/public_html/app-demo/test/switch.php on line 1
+[15-Jul-2020 16:59:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: esp1sd1 in /home/adiccion/public_html/app-demo/test/switch.php on line 1
+[15-Jul-2020 16:59:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: esp1sd1 in /home/adiccion/public_html/app-demo/test/switch.php on line 1
+[15-Jul-2020 18:02:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: esp1sd1 in /home/adiccion/public_html/app-demo/test/switch.php on line 1
+[15-Jul-2020 18:02:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: esp1sd1 in /home/adiccion/public_html/app-demo/test/switch.php on line 1

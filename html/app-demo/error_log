@@ -1,0 +1,93 @@
+[14-Jul-2020 15:24:32 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 15:24:32 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 15:24:32 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/seriea.php on line 1
+[14-Jul-2020 16:26:39 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 16:26:39 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 16:26:39 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/seriea.php on line 1
+[14-Jul-2020 20:24:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 20:24:10 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 20:24:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 20:24:11 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 20:24:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 20:24:12 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[14-Jul-2020 20:24:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 20:24:29 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 20:24:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 20:24:30 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 20:24:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[14-Jul-2020 20:24:31 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 17:56:08 Europe/Madrid] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/adiccion/public_html/simple_html_dom.php on line 82
+[15-Jul-2020 17:56:08 Europe/Madrid] PHP Warning:  file_get_contents(https://m.livesoccertv.com/es/competitions/italy/serie-a/): failed to open stream: operation failed in /home/adiccion/public_html/simple_html_dom.php on line 82
+[15-Jul-2020 17:56:08 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/adiccion/public_html/app-demo/seriea.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/seriea.php on line 1
+[15-Jul-2020 17:56:08 Europe/Madrid] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/adiccion/public_html/simple_html_dom.php on line 82
+[15-Jul-2020 17:56:08 Europe/Madrid] PHP Warning:  file_get_contents(https://m.livesoccertv.com/es/competitions/spain/primera-division/): failed to open stream: operation failed in /home/adiccion/public_html/simple_html_dom.php on line 82
+[15-Jul-2020 17:56:08 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/adiccion/public_html/app-demo/esp2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/esp2.php on line 1
+[15-Jul-2020 19:24:52 Europe/Madrid] PHP Notice:  Undefined variable: premier3m3u82 in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 12:24:56 America/Mexico_City] PHP Notice:  Undefined variable: premier3m3u82 in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 18:25:02 Europe/Lisbon] PHP Notice:  Undefined variable: premier3m3u82 in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 12:25:17 America/Mexico_City] PHP Notice:  Undefined variable: premier3m3u82 in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:01 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 14:43:02 America/Mexico_City] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 14:43:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:02 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:02 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 21:43:03 Europe/Madrid] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 21:43:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: zonehoraria in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:04 America/Argentina/Buenos_Aires] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:04 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: html in /home/adiccion/public_html/app-demo/premier2.php on line 1
+[15-Jul-2020 16:43:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/adiccion/public_html/app-demo/premier2.php:1
+Stack trace:
+#0 /home/adiccion/public_html/app-demo/all2.php(17): include()
+#1 {main}
+  thrown in /home/adiccion/public_html/app-demo/premier2.php on line 1

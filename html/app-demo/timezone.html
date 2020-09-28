@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        
+    </style>
+    <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.13/moment-timezone-with-data.min.js"></script>
+<p id="result"></p>
+    <script type="text/javascript">
+    	var zona = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        function showTheTime() {
+    var da_te = moment().tz(zona); 
+    document.getElementById("result").textContent = da_te.format('d/M/YY h:mma');
+    // console.log(da_te.valueOf());
+    // console.log(zona);
+}
+
+showTheTime();
+    </script>
+</body>
+</html>
