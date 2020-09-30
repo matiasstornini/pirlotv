@@ -1,6 +1,34 @@
-var AEsp = [
+let AEsp = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+
+];
+
+let AIng = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->"
+
+];
+
+let AIta = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+
+];
+
+let AAle = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+
+];
+
+let ALib = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
 ];
