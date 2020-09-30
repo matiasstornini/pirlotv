@@ -1,8 +1,16 @@
 console.log("hola");
 var blog = "https://pirlotv-redirecciones.blogspot.com/2020/09/";
 
-let esp = [""+blog+"esp-0-m3u8.html",""+blog+"esp-0b-m3u8.html",""+blog+"esp-1-m3u8.html"];
+let esp = [
+""+blog+"esp-0-m3u8.html",""+blog+"esp-0b-m3u8.html",""+blog+"esp-0c-m3u8.html",
+""+blog+"esp-1-m3u8.html",""+blog+"esp-1b-m3u8.html",""+blog+"esp-1c-m3u8.html",
+""+blog+"esp-2-m3u8.html",""+blog+"esp-2b-m3u8.html",""+blog+"esp-2c-m3u8.html",
+""+blog+"esp-3-m3u8.html",""+blog+"esp-3b-m3u8.html",""+blog+"esp-1-m3u8.html"
+
+];
+
 let ing = [""+blog+"premier-0-m3u8.html",""+blog+"premier-0b-m3u8.html",""+blog+"premier-1-m3u8.html"];
+
 let ita = [""+blog+"seriea-0-m3u8.html",""+blog+"seriea-0b-m3u8.html",""+blog+"seriea-1-m3u8.html",""+blog+"seriea-1b-m3u8.html"];
 
 let lib = [
