@@ -32,3 +32,7 @@ let ALib = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
 ];
+
+let ACol = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
+];

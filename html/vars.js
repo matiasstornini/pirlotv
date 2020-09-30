@@ -35,3 +35,10 @@ let lib = [
 ""+blog+"libertadores-href-2.html",""+blog+"libertadores-href-2b.html",""+blog+"libertadores-href-2c.html",
 ""+blog+"libertadores-href-3.html",""+blog+"libertadores-href-3b.html",""+blog+"libertadores-href-3c.html"
 ];
+
+let col = [
+""+blog+"col-0-m3u8.html",""+blog+"col-0b-m3u8.html",
+""+blog+"bundes-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
+""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
+
+];
