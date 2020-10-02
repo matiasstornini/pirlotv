@@ -29,6 +29,13 @@ let ale = [
 
 ];
 
+let fra = [
+""+blog+"francia-0-m3u8.html",""+blog+"francia-0b-m3u8.html",
+""+blog+"bundes-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
+""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
+
+];
+
 let lib = [
 ""+blog+"libertadores-href-0.html",""+blog+"libertadores-href-0b.html",""+blog+"libertadores-href-0c.html",
 ""+blog+"libertadores-href-1.html",""+blog+"libertadores-href-1b.html",""+blog+"libertadores-href-1c.html",
@@ -38,6 +45,13 @@ let lib = [
 
 let col = [
 ""+blog+"col-0-m3u8.html",""+blog+"col-0b-m3u8.html",
+""+blog+"bundes-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
+""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
+
+];
+
+let mex = [
+""+blog+"mexico-0-m3u8.html",""+blog+"mexico-0b-m3u8.html",
 ""+blog+"bundes-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
 ""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 
