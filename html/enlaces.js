@@ -1,5 +1,5 @@
 let AEsp = [
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 4</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a><!-- <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 4</b></a>-->",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
@@ -40,7 +40,7 @@ let ALib = [
 ];
 
 let ACol = [
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>-->"
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
 let AMex = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"

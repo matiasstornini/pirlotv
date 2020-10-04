@@ -1,4 +1,7 @@
 console.log("hola");
+// var d = new Date();document.getElementById("d").innerHTML = d.getHours()+":"+(d.getMinutes()<10?'0':'') + d.getMinutes();
+
+
 var blog = "https://pirlotv-redirecciones.blogspot.com/2020/09/";
 
 let esp = [
