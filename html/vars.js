@@ -40,8 +40,8 @@ let fra = [
 ];
 
 let conmebol = [
-""+blog+"conmebol-href-0.html",""+blog+"conmebol-href-0b.html",""+blog+"libertadores-href-0c.html",
-""+blog+"conmebol-href-1.html",""+blog+"conmebol-href-1b.html",""+blog+"libertadores-href-1c.html",
+""+blog+"conmebol-m3u8-0.html",""+blog+"conmebol-m3u8-0b.html",""+blog+"libertadores-href-0c.html",
+""+blog+"conmebol-m3u8-1.html",""+blog+"conmebol-m3u8-1b.html",""+blog+"libertadores-href-1c.html",
 ""+blog+"libertadores-href-2.html",""+blog+"libertadores-href-2b.html",""+blog+"libertadores-href-2c.html",
 ""+blog+"libertadores-href-3.html",""+blog+"libertadores-href-3b.html",""+blog+"libertadores-href-3c.html"
 ];
