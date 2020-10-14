@@ -26,7 +26,7 @@ let AAle = [
 
 ];
 let AFra = [
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
