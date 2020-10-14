@@ -39,10 +39,16 @@ let fra = [
 
 ];
 
+let euro = [
+""+blog+"compeuro-0a-m3u8.html",""+blog+"ompeuro-0b-m3u8.html",
+""+blog+"conmebol-1-m3u8.html",""+blog+"conmebol-1b-m3u8.html",
+""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
+
+];
 let conmebol = [
 ""+blog+"conmebol-0-m3u8.html",""+blog+"conmebol-0b-m3u8.html",
-""+blog+"conmebol-1-m3u8.html",""+blog+"conmebol-1b-m3u8.html",""+blog+"conmebol-1c-m3u8.html",
-""+blog+"conmebol-2-m3u8.html",""+blog+"conmebol-2b-m3u8.html"
+""+blog+"conmebol-1-m3u8.html",""+blog+"conmebol-1b-m3u8.html",
+""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 
 ];
 
