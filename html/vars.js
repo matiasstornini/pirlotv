@@ -61,7 +61,7 @@ let lib = [
 
 let col = [
 ""+blog+"col-0-m3u8.html",""+blog+"col-0b-m3u8.html",
-""+blog+"bundes-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
+""+blog+"col-0c-m3u8.html",
 ""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 
 ];
