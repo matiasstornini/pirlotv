@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML = "<h4><u>Primera A (Colombia)</u></h4><h5>Ind. Santa Fe - La Equidad</h5> <h5>Ind. Medellin - Jaguares (C)</h5> <h5>Dep. Tolima - A. Petrolera</h5> <h5>Rionegro A. - Atl. Nacional</h5> <h5>Bucaramanga - Dep. Pereira</h5><h4><u>Liga MX</u></h4><h5>Atl. San Luis - Queretaro</h5>";
