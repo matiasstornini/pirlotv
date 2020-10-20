@@ -8,7 +8,7 @@ let esp = [
 ""+blog+"esp-0-m3u8.html",""+blog+"esp-0b-m3u8.html",""+blog+"esp-0c-m3u8.html",
 ""+blog+"esp-1-m3u8.html",""+blog+"esp-1b-m3u8.html",""+blog+"esp-1c-m3u8.html",
 ""+blog+"esp-2-m3u8.html",""+blog+"esp-2b-m3u8.html",""+blog+"esp-2c-m3u8.html",
-""+blog+"esp-3-m3u8.html",""+blog+"esp-3b-m3u8.html",""+blog+"esp-3c-m3u8.html"
+""+blog+"esp-3-m3u8.html"
 
 ];
 
@@ -45,6 +45,14 @@ let euro = [
 ""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 
 ];
+let champions = [
+""+blog+"champions-0-m3u8.html",""+blog+"champions-0b-m3u8.html",""+blog+"champions-0c-m3u8.html",
+""+blog+"champions-1-m3u8.html",""+blog+"champions-1b-m3u8.html",""+blog+"champions-1c-m3u8.html",
+""+blog+"champions-2-m3u8.html",""+blog+"champions-2b-m3u8.html",""+blog+"champions-2c-m3u8.html",
+""+blog+"champions-3-m3u8.html",""+blog+"champions-3b-m3u8.html",""+blog+"champions-3c-m3u8.html"
+
+];
+
 let conmebol = [
 ""+blog+"conmebol-0-m3u8.html",""+blog+"conmebol-0b-m3u8.html",
 ""+blog+"conmebol-1-m3u8.html",""+blog+"conmebol-1b-m3u8.html",

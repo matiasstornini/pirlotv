@@ -32,6 +32,13 @@ let AFra = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
 ];
+let AChampions = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a><!-- <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 4</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
+
+];
 let AEuro = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
