@@ -70,5 +70,6 @@ let AMex = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
 
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>",
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>"
 ];

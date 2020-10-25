@@ -76,7 +76,7 @@ let col = [
 
 let mex = [
 ""+blog+"mexico-0-m3u8.html",""+blog+"mexico-0b-m3u8.html",
-""+blog+"bundes-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
+""+blog+"mexico-1-m3u8.html",""+blog+"bundes-1b-m3u8.html",
 ""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 
 ];
