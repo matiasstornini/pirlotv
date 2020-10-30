@@ -66,7 +66,13 @@ let lib = [
 ""+blog+"libertadores-href-2.html",""+blog+"libertadores-href-2b.html",""+blog+"libertadores-href-2c.html",
 ""+blog+"libertadores-href-3.html",""+blog+"libertadores-href-3b.html",""+blog+"libertadores-href-3c.html"
 ];
+let arg = [
+""+blog+"arg-0-m3u8.html",""+blog+"arg-0b-m3u8.html",""+blog+"arg-0c-m3u8.html",
+""+blog+"arg-1-m3u8.html",""+blog+"arg-1b-m3u8.html",""+blog+"arg-1c-m3u8.html",
+""+blog+"arg-2-m3u8.html",""+blog+"arg-2b-m3u8.html",""+blog+"arg-2c-m3u8.html",
+""+blog+"arg-3-m3u8.html"
 
+];
 let col = [
 ""+blog+"col-0-m3u8.html",""+blog+"col-0b-m3u8.html",
 ""+blog+"col-0c-m3u8.html",
