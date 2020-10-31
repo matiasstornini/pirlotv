@@ -86,3 +86,7 @@ let mex = [
 ""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 
 ];
+
+let exit = [
+""+blog+"go-href-0.html"
+];
