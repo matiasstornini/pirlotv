@@ -81,6 +81,10 @@ let AArg = [
 
 let ACol = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+col[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 ];
 
