@@ -49,7 +49,9 @@ let AUcl = [
 
 ];
 let AEuro = [
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
 let AConmebol = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
