@@ -10,10 +10,10 @@ function fuctiondarkmode() {
 }
 if (localStorage.getItem('dark-mode') === 'true') {
   document.body.classList.add('dark-mode');
-  document.getElementById("buton").innerHTML = "<span onclick='fuctiondarkmode(); location.reload();' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;''><b>Modo oscuro: ON</b></span> <span onclick='location.reload();' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;''><b>Actualizar</b>";
+  document.getElementById("buton").innerHTML = "<span onclick='fuctiondarkmode(); location.reload();' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;''><b>Modo oscuro: ON</b></span>  ";
 }else{
   document.body.classList.remove('dark-mode');
-  document.getElementById("buton").innerHTML = "<span onclick='fuctiondarkmode(); location.reload();' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;''><b>Modo claro: ON</b> <span onclick='location.reload();' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;''><b>Actualizar</b>";
+  document.getElementById("buton").innerHTML = "<span onclick='fuctiondarkmode(); location.reload();' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;''><b>Modo claro: ON</b> ";
 }
 
 document.getElementById("ad-Aec").innerHTML = "<div class='card-panel teal lighten-2'>Serie A de ITALIA por ahora sin transmisiones, estamos trabajando en conseguir las opciones, disculpen las molestia.</div>";
