@@ -12,11 +12,11 @@ document.getElementById("stars").innerHTML = ' <!-- Modal Trigger --> <a id="sta
   
   if(valor==1){
   // alert('redireccion del valor 1');
-    document.write('<h4>Gracias, su valoración fue enviada. Si quiere puede contactarnos por Instagram y lo intentaremos ayudar.</h4><br><a href="demo.html"><h4>Volver</h4></a>');
+    document.write('<h4>Gracias, su valoración fue enviada. Si quiere puede contactarnos por Instagram y lo intentaremos ayudar.</h4><br><a href="home.html"><h4>Volver</h4></a>');
   }
   if(valor==2){
   // alert('redireccion del valor 2');
-    document.write('<h4>Gracias, su valoración fue enviada. Si quiere puede contactarnos por Instagram y lo intentaremos ayudar.</h4><br><a href="demo.html"><h4>Volver</h4></a>');
+    document.write('<h4>Gracias, su valoración fue enviada. Si quiere puede contactarnos por Instagram y lo intentaremos ayudar.</h4><br><a href="home.html"><h4>Volver</h4></a>');
   }
   if(valor==3){
   // alert('redireccion del valor 3');
