@@ -102,6 +102,7 @@ let AMex = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>"
 ];
 
-let AExit = [
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+exit[0]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>"
+let AGo = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[0]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[1]+" ' style='background-color: #ffffff00;'><b>Más</b></a>"
 ];

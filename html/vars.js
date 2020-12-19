@@ -87,6 +87,6 @@ let mex = [
 
 ];
 
-let exit = [
-""+blog+"go-href-0.html"
+let go = [
+""+blog+"go-href-0.html",""+blog+"go-href-1.html",
 ];
