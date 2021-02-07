@@ -7,7 +7,8 @@ let Match=[
 
 " Palmeiras - Tigres UANL ",
 
- " Millonarios - Deportivo Pereira "," Deportes Tolima - Medellín "," Patriotas Boyacá - Deportivo Cali "," Jaguares de Córdoba - Santa Fe "
+ " Millonarios - Deportivo Pereira "," Deportes Tolima - Medellín "," Patriotas Boyacá - Deportivo Cali "," Jaguares de Córdoba - Santa Fe ",
+ "Kansas City Chiefs - Tampa Bay Buccaneers"
 ];
 
 let Est=[
@@ -31,7 +32,9 @@ let Title=[
 
 "Mundial de Clubes",
 
-"Liga BetPlay (Colombia)"
+"Liga BetPlay (Colombia)",
+
+"Super Bowl LV"
 
 ];
 console.log(Est);
