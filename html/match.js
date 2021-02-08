@@ -1,40 +1,37 @@
 let Match=[
-" Tottenham Hotspur - West Bromwich Albion "," Wolverhampton Wanderers - Leicester City "," Liverpool - Manchester City "," Sheffield United - Chelsea ",
+ "Kansas City Chiefs - Tampa Bay Buccaneers",
+" Leeds United - Crystal Palace ",
 
-" Real Sociedad - Cádiz "," Athletic Club - Valencia "," Osasuna - Eibar "," Real Betis - Barcelona ",
+" Atlético Madrid - Celta de Vigo ",
 
-" Milan - Crotone "," Udinese - Hellas Verona "," Parma - Bologna "," Lazio - Cagliari ",
+" Al Ahly - Bayern München ",
 
-" Palmeiras - Tigres UANL ",
+" Atlético Bucaramanga - La Equidad ",
 
- " Millonarios - Deportivo Pereira "," Deportes Tolima - Medellín "," Patriotas Boyacá - Deportivo Cali "," Jaguares de Córdoba - Santa Fe ",
- "Kansas City Chiefs - Tampa Bay Buccaneers"
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757063/tottenham-hotspur-vs-west-bromwich-albion/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757064/wolverhampton-wanderers-vs-leicester-city/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757059/liverpool-vs-manchester-city/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757062/sheffield-united-vs-chelsea/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757058/leeds-united-vs-crystal-palace/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757411/real-sociedad-vs-cadiz/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757405/athletic-club-vs-valencia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757410/osasuna-vs-eibar/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757407/real-betis-vs-barcelona/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757406/atletico-madrid-vs-celta-de-vigo/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777131/milan-vs-crotone/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777138/udinese-vs-hellas-verona/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777129/parma-vs-bologna/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777130/lazio-vs-cagliari/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3893273/al-ahly-vs-bayern-m-nchen/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3893272/palmeiras-vs-tigres-uanl/ ',
-
- 'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881154/millonarios-vs-deportivo-pereira/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881146/deportes-tolima-vs-medellin/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881153/patriotas-boyaca-vs-deportivo-cali/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881147/jaguares-de-cordoba-vs-santa-fe/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881149/atletico-bucaramanga-vs-la-equidad/ '
 ];
 
 let Title=[
+"Super Bowl LV",
 "Premier League (Inglaterra)",
 
 "LaLiga (España)",
 
-"Serie A (Italia)",
+// "Serie A (Italia)",
 
 "Mundial de Clubes",
 
 "Liga BetPlay (Colombia)",
 
-"Super Bowl LV"
 
 ];
 console.log(Est);
