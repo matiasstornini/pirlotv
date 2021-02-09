@@ -1,34 +1,32 @@
 let Match=[
- "Kansas City Chiefs - Tampa Bay Buccaneers",
-" Leeds United - Crystal Palace ",
+" Burnley - AFC Bournemouth "," Manchester United - West Ham United ",
 
-" Atlético Madrid - Celta de Vigo ",
+" Real Madrid - Getafe ",
 
-" Al Ahly - Bayern München ",
+" Juventus - Internazionale ",
 
-" Atlético Bucaramanga - La Equidad ",
+" Rionegro Águilas - Deportivo Pasto "
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757058/leeds-united-vs-crystal-palace/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3897270/burnley-vs-afc-bournemouth/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3896039/manchester-united-vs-west-ham-united/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757406/atletico-madrid-vs-celta-de-vigo/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3893288/real-madrid-vs-getafe/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3893273/al-ahly-vs-bayern-m-nchen/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3898192/juventus-vs-internazionale/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881149/atletico-bucaramanga-vs-la-equidad/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3881151/rionegro-aguilas-vs-deportivo-pasto/ ',
 ];
 
 let Title=[
-"Super Bowl LV",
-"Premier League (Inglaterra)",
+"FA CUP (Inglaterra)",
 
 "LaLiga (España)",
 
 // "Serie A (Italia)",
 
-"Mundial de Clubes",
+"Coppa Italia",
 
 "Liga BetPlay (Colombia)",
 
