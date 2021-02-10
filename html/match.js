@@ -22,7 +22,7 @@ let Est=[
 let Title=[
 "FA CUP (Inglaterra)",
 
-"LaLiga (España)",
+"Copa del Rey (España)",
 
 // "Serie A (Italia)",
 
