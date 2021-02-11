@@ -1,22 +1,18 @@
 let Match=[
-" Swansea City - Manchester City "," Leicester City - Brighton & Hove Albion "," Sheffield United - Bristol City "," Everton - Tottenham Hotspur ",
+" Wolverhampton Wanderers - Southampton "," Barnsley - Chelsea ",
 
-" Sevilla - Barcelona ",
+" Athletic Club - Levante ",
 
-" Atalanta - Napoli ",
-
-" River Plate - Def. de Pronunciamiento "
+" Al Ahly - Palmeiras "," Bayern München - Tigres UANL "
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3895553/swansea-city-vs-manchester-city/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3896041/leicester-city-vs-brighton-hove-albion/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3895551/sheffield-united-vs-bristol-city/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3896600/everton-vs-tottenham-hotspur/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3895552/wolverhampton-wanderers-vs-southampton/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3896040/barnsley-vs-chelsea/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907824/sevilla-vs-barcelona/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907825/athletic-club-vs-levante/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3898822/atalanta-vs-napoli/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3898300/river-plate-vs-def-de-pronunciamiento/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3909162/al-ahly-vs-palmeiras/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3893274/bayern-m-nchen-vs-tigres-uanl/ '
 ];
 
 let Title=[
@@ -26,7 +22,7 @@ let Title=[
 
 // "Serie A (Italia)",
 
-"Coppa Italia",
+"Fifa World Cup",
 "Copa Argentina",
 
 "Liga BetPlay (Colombia)",
