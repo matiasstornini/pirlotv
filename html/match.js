@@ -1,31 +1,30 @@
 let Match=[
-" Wolverhampton Wanderers - Southampton "," Barnsley - Chelsea ",
+" Celta de Vigo - Elche ",
 
-" Athletic Club - Levante ",
+" Banfield - Racing Club "," Central Córdoba SdE - Colón "," Unión Santa Fe - Atlético Tucumán ",
 
-" Al Ahly - Palmeiras "," Bayern München - Tigres UANL "
+" Deportivo Pereira - Patriotas Boyacá "," Alianza Petrolera - Once Caldas "," Boyacá Chicó - América de Cali "
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3895552/wolverhampton-wanderers-vs-southampton/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3896040/barnsley-vs-chelsea/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757415/celta-de-vigo-vs-elche/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907825/athletic-club-vs-levante/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906637/banfield-vs-racing-club/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906639/central-cordoba-sde-vs-colon/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906645/union-santa-fe-vs-atletico-tucuman/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3909162/al-ahly-vs-palmeiras/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3893274/bayern-m-nchen-vs-tigres-uanl/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887105/deportivo-pereira-vs-patriotas-boyaca/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887102/alianza-petrolera-vs-once-caldas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887108/boyaca-chico-vs-america-de-cali/ '
 ];
 
 let Title=[
+
+"LaLiga (España)",
+"Liga Profesional (Argentina)",
+"Liga BetPlay (Colombia)",
 "FA CUP (Inglaterra)",
-
-"Copa del Rey (España)",
-
 // "Serie A (Italia)",
 
 "Fifa World Cup",
-"Copa Argentina",
 
-"Liga BetPlay (Colombia)",
 
 
 ];
