@@ -7,7 +7,9 @@ let Match=[
 
 " Defensa y Justicia - Huracán "," Boca Juniors - Gimnasia La Plata "," Estudiantes - River Plate ",
 
-" Santa Fe - Atlético Bucaramanga "," Medellín - Jaguares de Córdoba "," Deportivo Pasto - Deportes Tolima "
+" Santa Fe - Atlético Bucaramanga "," Medellín - Jaguares de Córdoba "," Deportivo Pasto - Deportes Tolima ",
+" Everton - Huachipato "," Univ. Concepción - Universidad Católica "," Deportes Iquique - Santiago Wanderers "," La Serena - Audax Italiano "," O'Higgins - Colo-Colo "," Palestino - Coquimbo Unido "
+
 ];
 
 let Est=[
@@ -19,7 +21,8 @@ let Est=[
 
 'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906646/platense-vs-sarmiento/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906644/defensa-y-justicia-vs-huracan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906641/boca-juniors-vs-gimnasia-la-plata/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906635/estudiantes-vs-river-plate/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887110/santa-fe-vs-atletico-bucaramanga/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887107/medellin-vs-jaguares-de-cordoba/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887104/deportivo-pasto-vs-deportes-tolima/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887110/santa-fe-vs-atletico-bucaramanga/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887107/medellin-vs-jaguares-de-cordoba/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887104/deportivo-pasto-vs-deportes-tolima/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3894059/everton-vs-huachipato/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3894055/univ-concepcion-vs-universidad-catolica/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3894054/deportes-iquique-vs-santiago-wanderers/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3894057/la-serena-vs-audax-italiano/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3894061/ohiggins-vs-colo-colo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3894060/palestino-vs-coquimbo-unido/ '
 ];
 
 let Title=[
@@ -28,6 +31,7 @@ let Title=[
 "Serie A (Italia)",
 "Liga Profesional (Argentina)",
 "Liga BetPlay (Colombia)",
+"Primera Division (Chile)",
 "Bundesliga (Alemania)",
 // "Serie A (Italia)",
 
