@@ -1,30 +1,24 @@
 let Match=[
-" West Ham United - Sheffield United "," Chelsea - Newcastle United ",
+" Barcelona - PSG "," RB Leipzig - Liverpool ",
 
-" Cádiz - Athletic Club ",
-
-" Bayern München - Arminia Bielefeld ",
-
-" Rosario Central - Argentinos Juniors "," Independiente - Lanús "
+" Patriotas Boyacá - Alianza Petrolera "," Once Caldas - Atlético Nacional "
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757074/west-ham-united-vs-sheffield-united/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757067/chelsea-vs-newcastle-united/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863373/barcelona-vs-psg/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863371/rb-leipzig-vs-liverpool/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757418/cadiz-vs-athletic-club/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733946/bayern-m-nchen-vs-arminia-bielefeld/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906634/rosario-central-vs-argentinos-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906643/independiente-vs-lanus/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887117/patriotas-boyaca-vs-alianza-petrolera/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887114/once-caldas-vs-atletico-nacional/ '
 ];
 
 let Title=[
+"Champions League (Octavos)",
+"Liga BetPlay (Colombia)",
+
 "Premier League (Inglaterra)",
 "LaLiga (España)",
 "Bundesliga (Alemania)",
 "Liga Profesional (Argentina)",
 "Serie A (Italia)",
-"Liga BetPlay (Colombia)",
 "Primera Division (Chile)",
 // "Serie A (Italia)",
 
