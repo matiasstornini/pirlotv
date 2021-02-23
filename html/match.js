@@ -1,34 +1,37 @@
 let Match=[
-" Brighton & Hove Albion - Crystal Palace ",
+" Atlético Madrid - Chelsea "," Lazio - Bayern München ",
 
-" Osasuna - Sevilla ",
+" Leeds United - Southampton ",
 
-" Juventus - Crotone ",
+" Junior - Millonarios ",
 
-" Atlético Tucumán - Central Córdoba SdE "," Huracán - Unión Santa Fe "," Colón - San Lorenzo ",
+" Lanús - Real Pilar ",
 
-" Deportivo Cali - Alianza Petrolera "
+" Liverpool - Universidad Católica "
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757077/brighton-hove-albion-vs-crystal-palace/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863381/atletico-madrid-vs-chelsea/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863379/lazio-vs-bayern-m-nchen/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757429/osasuna-vs-sevilla/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906631/leeds-united-vs-southampton/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777150/juventus-vs-crotone/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887131/junior-vs-millonarios/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906659/atletico-tucuman-vs-central-cordoba-sde/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906653/huracan-vs-union-santa-fe/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906647/colon-vs-san-lorenzo/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3921753/lanus-vs-real-pilar/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887127/deportivo-cali-vs-alianza-petrolera/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3910147/liverpool-vs-universidad-catolica/ '
 ];
 
 let Title=[
 
+"Champions League (Octavos)",
 "Premier League (Inglaterra)",
+"Liga BetPlay (Colombia)",
+"Copa Argentina",
+"Conmebol Libertadores ",
 "LaLiga (España)",
 "Serie A (Italia)",
 "Liga Profesional (Argentina)",
-"Liga BetPlay (Colombia)",
 "Bundesliga (Alemania)",
 "Primera Division (Chile)",
 "Europa League (Dieciseisavos)",
