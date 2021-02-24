@@ -92,7 +92,7 @@ let go = [
 ];
 
 let cpa = [
-""+blog+"go-href-0.html",
+"https://bit.ly/3pLvAkY",
 
 ""+blog+"go-href-1.html",
 ];
