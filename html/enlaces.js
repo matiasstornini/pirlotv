@@ -118,3 +118,9 @@ let AGo = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[0]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[1]+" ' style='background-color: #ffffff00;'><b>Más</b></a>"
 ];
+
+let CPA = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+cpa[0]+" ' style='background-color: #ffffff00;'><b>ABRIR FHD</b></a>",
+
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[1]+" ' style='background-color: #ffffff00;'><b>Más</b></a>"
+];
