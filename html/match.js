@@ -1,40 +1,40 @@
 let Match=[
-" Atlético Madrid - Chelsea "," Lazio - Bayern München ",
+" Tottenham Hotspur - Wolfsberger AC ",
 
-" Leeds United - Southampton ",
+" Barcelona - Elche ",
 
-" Junior - Millonarios ",
+" Atalanta - Real Madrid "," Borussia M'gladbach - Manchester City ",
 
-" Lanús - Real Pilar ",
+" César Vallejo - Caracas "," Royal Pari - Guaraní ",
 
-" Liverpool - Universidad Católica "
+" Santa Fe - Boyacá Chicó "," Rionegro Águilas - La Equidad "," Atlético Bucaramanga - Atlético Nacional "," América de Cali - Envigado "
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863381/atletico-madrid-vs-chelsea/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863379/lazio-vs-bayern-m-nchen/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3862960/tottenham-hotspur-vs-wolfsberger-ac/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906631/leeds-united-vs-southampton/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887090/barcelona-vs-elche/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887131/junior-vs-millonarios/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863385/atalanta-vs-real-madrid/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863383/borussia-mgladbach-vs-manchester-city/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3921753/lanus-vs-real-pilar/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907927/cesar-vallejo-vs-caracas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907929/royal-pari-vs-guarani/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3910147/liverpool-vs-universidad-catolica/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887137/santa-fe-vs-boyaca-chico/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887134/rionegro-aguilas-vs-la-equidad/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887132/atletico-bucaramanga-vs-atletico-nacional/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887136/america-de-cali-vs-envigado/ '
 ];
 
 let Title=[
 
-"Champions League (Octavos)",
-"Premier League (Inglaterra)",
-"Liga BetPlay (Colombia)",
-"Copa Argentina",
-"Conmebol Libertadores ",
+"Europa League (Dieciseisavos)",
 "LaLiga (España)",
-"Serie A (Italia)",
+"Champions League (Octavos)",
+"Conmebol Libertadores ",
+"Liga BetPlay (Colombia)",
 "Liga Profesional (Argentina)",
+"Premier League (Inglaterra)",
+"Copa Argentina",
+"Serie A (Italia)",
 "Bundesliga (Alemania)",
 "Primera Division (Chile)",
-"Europa League (Dieciseisavos)",
 // "Serie A (Italia)",
 
 "Fifa World Cup",
