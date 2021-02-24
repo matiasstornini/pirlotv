@@ -8,7 +8,7 @@ let esp = [
 ""+blog+"esp-0-m3u8.html",""+blog+"esp-0b-m3u8.html",""+blog+"esp-0c-m3u8.html",
 ""+blog+"esp-1-m3u8.html",""+blog+"esp-1b-m3u8.html",""+blog+"esp-1c-m3u8.html",
 ""+blog+"esp-2-m3u8.html",""+blog+"esp-2b-m3u8.html",""+blog+"esp-2c-m3u8.html",
-""+blog+"esp-3-m3u8.html"
+""+blog+"esp-3-m3u8.html",""+blog+"esp-3b-m3u8.html",""+blog+"esp-3c-m3u8.html"
 
 ];
 
@@ -89,4 +89,10 @@ let mex = [
 
 let go = [
 ""+blog+"go-href-0.html",""+blog+"go-href-1.html",
+];
+
+let cpa = [
+""+blog+"go-href-0.html",
+
+""+blog+"go-href-1.html",
 ];
