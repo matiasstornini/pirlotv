@@ -1,29 +1,29 @@
 let Match=[
-" Manchester City - West Ham United "," West Bromwich Albion - Brighton & Hove Albion "," Leeds United - Aston Villa "," Newcastle United - Wolverhampton Wanderers ",
+" Crystal Palace - Fulham "," Leicester City - Arsenal "," Tottenham Hotspur - Burnley "," Chelsea - Manchester United "," Sheffield United - Liverpool ",
 
-" Eibar - Huesca "," Sevilla - Barcelona "," Deportivo Alavés - Osasuna "," Getafe - Valencia ",
+" Celta de Vigo - Real Valladolid "," Cádiz - Real Betis "," Granada - Elche "," Villarreal - Atlético Madrid ",
 
-" Spezia - Parma "," Bologna - Lazio "," Hellas Verona - Juventus ",
+" Sampdoria - Atalanta "," Crotone - Cagliari "," Internazionale - Genoa "," Udinese - Fiorentina "," Napoli - Benevento "," Roma - Milan ",
 
-" Bayern München - Köln "," Borussia Dortmund - Arminia Bielefeld "," Stuttgart - Schalke 04 "," Wolfsburg - Hertha BSC "," RB Leipzig - Borussia M'gladbach ",
+" Union Berlin - Hoffenheim "," Mainz 05 - Augsburg "," Bayer Leverkusen - Freiburg ",
 
-" Banfield - Colón "," Talleres Córdoba - Newell's Old Boys "," Independiente - Gimnasia La Plata "," San Lorenzo - Central Córdoba SdE ",
+" Platense - River Plate "," Estudiantes - Racing Club "," Boca Juniors - Sarmiento ",
 
-" La Equidad - Boyacá Chicó "," Patriotas Boyacá - Junior "
+" Envigado - Medellín "," Deportes Tolima - Rionegro Águilas "," Deportivo Pasto - América de Cali "," Deportivo Cali - Santa Fe "
 ];
 
 let Est=[
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757090/manchester-city-vs-west-ham-united/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757094/west-bromwich-albion-vs-brighton-hove-albion/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757088/leeds-united-vs-aston-villa/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757091/newcastle-united-vs-wolverhampton-wanderers/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757086/crystal-palace-vs-fulham/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757089/leicester-city-vs-arsenal/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757093/tottenham-hotspur-vs-burnley/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757085/chelsea-vs-manchester-united/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757092/sheffield-united-vs-liverpool/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757436/eibar-vs-huesca/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757442/sevilla-vs-barcelona/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757434/deportivo-alaves-vs-osasuna/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757437/getafe-vs-valencia/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757435/celta-de-vigo-vs-real-valladolid/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757438/cadiz-vs-real-betis/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757439/granada-vs-elche/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757443/villarreal-vs-atletico-madrid/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777167/spezia-vs-parma/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777165/bologna-vs-lazio/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777164/hellas-verona-vs-juventus/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777159/sampdoria-vs-atalanta/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777161/crotone-vs-cagliari/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777163/internazionale-vs-genoa/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777162/udinese-vs-fiorentina/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777160/napoli-vs-benevento/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777166/roma-vs-milan/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733964/bayern-m-nchen-vs-koln/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733965/borussia-dortmund-vs-arminia-bielefeld/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733972/stuttgart-vs-schalke-04/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733968/wolfsburg-vs-hertha-bsc/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733966/rb-leipzig-vs-borussia-mgladbach/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733969/union-berlin-vs-hoffenheim/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733970/mainz-05-vs-augsburg/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3733967/bayer-leverkusen-vs-freiburg/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906664/banfield-vs-colon/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906667/talleres-cordoba-vs-newells-old-boys/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906668/independiente-vs-gimnasia-la-plata/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906665/san-lorenzo-vs-central-cordoba-sde/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906660/platense-vs-river-plate/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906662/estudiantes-vs-racing-club/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3924454/boca-juniors-vs-sarmiento/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887142/la-equidad-vs-boyaca-chico/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887144/patriotas-boyaca-vs-junior/ '
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887139/envigado-vs-medellin/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887138/deportes-tolima-vs-rionegro-aguilas/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887140/deportivo-pasto-vs-america-de-cali/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887145/deportivo-cali-vs-santa-fe/ ',
 ];
 
 let Title=[
