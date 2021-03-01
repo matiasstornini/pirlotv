@@ -5,7 +5,7 @@ let Match=[
 
 " Unión Santa Fe - Lanús "," Atlético Tucumán - Huracán "," Rosario Central - Godoy Cruz ",
 
-"1614639600", "1614646800"
+" Deportivo Pereira - Once Caldas "," Millonarios - Jaguares de Córdoba "
 ];
 
 let Est=[
