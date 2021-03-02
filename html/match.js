@@ -1,35 +1,35 @@
 let Match=[
-" Everton - Southampton ",
+" Manchester City - Wolverhampton Wanderers ",
 
-" Real Madrid - Real Sociedad ",
+" Lazio - Torino "," Juventus - Spezia ",
 
-" Unión Santa Fe - Lanús "," Atlético Tucumán - Huracán "," Rosario Central - Godoy Cruz ",
+" Universidad Católica - Liverpool ",
 
-" Deportivo Pereira - Once Caldas "," Millonarios - Jaguares de Córdoba "
+" Atlético Nacional - Alianza Petrolera "
 ];
 
 let Est=[
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757087/everton-vs-southampton/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922989/manchester-city-vs-wolverhampton-wanderers/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757441/real-madrid-vs-real-sociedad/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777176/lazio-vs-torino/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777175/juventus-vs-spezia/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906670/union-santa-fe-vs-lanus/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906671/atletico-tucuman-vs-huracan/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906661/rosario-central-vs-godoy-cruz/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3910148/universidad-catolica-vs-liverpool/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887141/deportivo-pereira-vs-once-caldas/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887146/millonarios-vs-jaguares-de-cordoba/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887143/atletico-nacional-vs-alianza-petrolera/ '
 ];
 
 let Title=[
 
 "Premier League (Inglaterra)",
+"Serie A (Italia)",
+"Conmebol Libertadores ",
+"Liga BetPlay (Colombia)",
 "LaLiga (España)",
 "Liga Profesional (Argentina)",
-"Liga BetPlay (Colombia)",
-"Serie A (Italia)",
 "Bundesliga (Alemania)",
 "Europa League (Dieciseisavos)",
 "Copa Argentina",
 "Champions League (Octavos)",
-"Conmebol Libertadores ",
 "Primera Division (Chile)",
 // "Serie A (Italia)",
 
