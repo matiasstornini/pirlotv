@@ -1,29 +1,25 @@
 let Match=[
-" Burnley - Leicester City "," Sheffield United - Aston Villa "," Crystal Palace - Manchester United ",
+" Fulham - Tottenham Hotspur "," West Bromwich Albion - Everton "," Liverpool - Chelsea ",
 
-" Barcelona - Sevilla ",
+" Levante - Athletic Club ",
 
-" Sassuolo - Napoli "," Atalanta - Crotone "," Benevento - Hellas Verona "," Cagliari - Bologna "," Fiorentina - Roma "," Genoa - Sampdoria "," Milan - Udinese ",
+" Parma - Internazionale ",
 
-" Boca Juniors - Claypole ",
+" Racing Club - River Plate ",
 
-" Caracas - César Vallejo "," Guaraní - Royal Pari ",
-
-" Patriotas Boyacá - América de Cali "
+" Boyacá Chicó - Millonarios "," Santa Fe - Deportes Tolima "
 ];
 
 let Est=[
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922990/burnley-vs-leicester-city/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922991/sheffield-united-vs-aston-villa/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922992/crystal-palace-vs-manchester-united/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922995/fulham-vs-tottenham-hotspur/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922993/west-bromwich-albion-vs-everton/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922994/liverpool-vs-chelsea/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907938/barcelona-vs-sevilla/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907939/levante-vs-athletic-club/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777172/sassuolo-vs-napoli/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777170/atalanta-vs-crotone/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777178/benevento-vs-hellas-verona/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777169/cagliari-vs-bologna/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777173/fiorentina-vs-roma/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777174/genoa-vs-sampdoria/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777177/milan-vs-udinese/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777171/parma-vs-internazionale/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3925886/boca-juniors-vs-claypole/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3931864/racing-club-vs-river-plate/ ',
 
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907928/caracas-vs-cesar-vallejo/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3907930/guarani-vs-royal-pari/ ',
-
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3923716/patriotas-boyaca-vs-america-de-cali/ '
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3923717/boyaca-chico-vs-millonarios/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3923718/santa-fe-vs-deportes-tolima/ '
 ];
 
 let Title=[
@@ -31,9 +27,9 @@ let Title=[
 "Premier League (Inglaterra)",
 "Copa del Rey (España)",
 "Serie A (Italia)",
-"Copa Argentina",
-"Conmebol Libertadores ",
+"Supercopa Argentina",
 "Liga BetPlay (Colombia)",
+"Conmebol Libertadores ",
 "Copa de Alemania (Alemania)",
 "Liga Profesional (Argentina)",
 "Europa League (Dieciseisavos)",
