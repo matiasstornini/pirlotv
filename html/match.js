@@ -1,39 +1,31 @@
 let Match=[
-" Chelsea - Everton "," West Ham United - Leeds United ",
+" Borussia Dortmund - Sevilla "," Juventus - Porto ",
 
-" Real Betis - Deportivo Alavés ",
+" Santos - Deportivo Lara "," Wanderers - Bolívar "," Unión Española - Independiente del Valle ",
 
-" Internazionale - Atalanta ",
-
-" Racing Club - Rosario Central "," River Plate - Argentinos Juniors ",
-
-" Santa Fe - Deportivo Pasto "
+" Alianza Petrolera - Millonarios "
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757098/chelsea-vs-everton/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757104/west-ham-united-vs-leeds-united/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863378/borussia-dortmund-vs-sevilla/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863376/juventus-vs-porto/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757446/real-betis-vs-deportivo-alaves/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3927492/santos-vs-deportivo-lara/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3925704/wanderers-vs-bolivar/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3921771/union-espanola-vs-independiente-del-valle/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777179/internazionale-vs-atalanta/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906676/racing-club-vs-rosario-central/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906678/river-plate-vs-argentinos-juniors/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887155/santa-fe-vs-deportivo-pasto/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887148/alianza-petrolera-vs-millonarios/ '
 ];
 
 let Title=[
 
+"Champions League (Octavos)",
+"Conmebol Libertadores ",
+"Liga BetPlay (Colombia)",
 "Premier League (Inglaterra)",
 "LaLiga (España)",
 "Serie A (Italia)",
 "Liga Profesional (Argentina)",
-"Liga BetPlay (Colombia)",
 "Bundesliga (Alemania)",
 "Supercopa Argentina",
-"Conmebol Libertadores ",
 "Europa League (Dieciseisavos)",
-"Champions League (Octavos)",
 "Primera Division (Chile)",
 // "Serie A (Italia)",
 
