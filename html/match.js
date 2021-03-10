@@ -26,22 +26,19 @@ let Est=[
 'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934019/universidad-catolica-vs-libertad/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934020/caracas-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934018/gremio-vs-ayacucho/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3921773/universidad-chile-vs-san-lorenzo/ '
 ];
 
-let Enl = [
-   "","","","","","","","","","","","",
-];
-
 let Title=[
 
 "Premier League (Inglaterra)",
 "LaLiga (España)",
-"Serie A (Italia)",
+"Champions League (Octavos)",
 "Liga Profesional (Argentina)",
+"Copa Argentina",
+"Conmebol Libertadores ",
 "Liga BetPlay (Colombia)",
+"Serie A (Italia)",
 "Bundesliga (Alemania)",
 "Supercopa Argentina",
-"Conmebol Libertadores ",
 "Europa League (Dieciseisavos)",
-"Champions League (Octavos)",
 "Primera Division (Chile)",
 // "Serie A (Italia)",
 
