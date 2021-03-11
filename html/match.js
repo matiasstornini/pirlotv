@@ -1,29 +1,18 @@
 let Match=[
-" Manchester City - Southampton <b>(Premier League)</b> ",
+" Ajax - Young Boys <b>(Europa League)</b>"," Dynamo Kyiv - Villarreal <b>(Europa League)</b>"," Manchester United - Milan <b>(Europa League)</b>"," Slavia Praha - Rangers <b>(Europa League)</b>"," Granada - Molde <b>(Europa League)</b>"," Olympiakos Piraeus - Arsenal <b>(Europa League)</b>"," Roma - Shakhtar Donetsk <b>(Europa League)</b>"," Tottenham Hotspur - Dinamo Zagreb <b>(Europa League)</b>",
 
-" Atlético Madrid - Athletic Club <b>(LaLiga)</b>",
+" Guaraní - Atlético Nacional <b>(Conmebol Libertadores)</b>",
 
-" Liverpool - RB Leipzig <b>(Champions League)</b>"," PSG - Barcelona <b>(Champions League)</b>",
-
-" Platense - Sarmiento <b>(Liga Argentina)</b>",
-
-" Banfield - Club Atlético Güemes <b>(Copa Argentina)</b>"," Atlético Tucumán - Comunicaciones <b>(Copa Argentina)</b>"," Independiente - Villa Mitre <b>(Copa Argentina)</b>",
-
-" Universidad Católica - Libertad <b>(Conmebol Libertadores)</b>"," Caracas - Junior <b>(Conmebol Libertadores)</b>"," Grêmio - Ayacucho <b>(Conmebol Libertadores)</b>"," Universidad Chile - San Lorenzo <b>(Conmebol Libertadores)</b>"
+" Deportivo Cali - América de Cali <b>(Liga BetPlay)</b>"
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3922996/manchester-city-vs-southampton/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3928891/ajax-vs-young-boys/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3928948/dynamo-kyiv-vs-villarreal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3928933/manchester-united-vs-milan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3929598/slavia-praha-vs-rangers/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3928949/granada-vs-molde/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3928947/olympiakos-piraeus-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3928892/roma-vs-shakhtar-donetsk/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3929602/tottenham-hotspur-vs-dinamo-zagreb/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3900652/atletico-madrid-vs-athletic-club/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934021/guarani-vs-atletico-nacional/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863372/liverpool-vs-rb-leipzig/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863374/psg-vs-barcelona/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3933165/deportivo-cali-vs-america-de-cali/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3933164/platense-vs-sarmiento/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3936964/banfield-vs-club-atletico-g-emes/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3936965/atletico-tucuman-vs-comunicaciones/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3929801/independiente-vs-villa-mitre/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934019/universidad-catolica-vs-libertad/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934020/caracas-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3934018/gremio-vs-ayacucho/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3921773/universidad-chile-vs-san-lorenzo/ '
 ];
 
 let Enl = [
@@ -33,11 +22,11 @@ let Enl = [
 let Title=[
 
 "Premier League <b>(Inglaterra)</b>",
-"LaLiga <b>(España)</b>",
-"Serie A <b>(Italia)</b>",
-"Liga Profesional <b>(Argentina)</b>",
-"Liga BetPlay <b>(Colombia)</b>",
-"Bundesliga <b>(Alemania)</b>",
+"LaLiga <b><b>(España)</b>",
+"Serie A <b><b>(Italia)</b>",
+"Liga Profesional <b><b>(Argentina)</b>",
+"Liga BetPlay <b><b>(Colombia)</b>",
+"Bundesliga <b><b>(Alemania)</b>",
 "Supercopa Argentina",
 "Conmebol Libertadores ",
 "Europa League <b>(Dieciseisavos)</b>",
@@ -50,4 +39,4 @@ let Title=[
 
 
 ];
-//console.log<b>(Est)</b>;
+//console.log<b>(Est)</b></b>;
