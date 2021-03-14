@@ -29,7 +29,7 @@ let Enl = [
     "","","",AEsp[0],
     "","","","",AIta[0],
     AArg[0]+" "+AArg[1]+" "+" "+AMex[1]+" "+AMex[2],"",
-    "",""
+    ACol[0],""
 ];
 
 let Title=[
