@@ -30,7 +30,7 @@ let Enl = [
     "","",
     AEsp[3],"","",
     AIng[3],"","","",
-    "",AMex[3],AMex[3]
+    "","",AMex[3]
 ];
 
 let Title=[
