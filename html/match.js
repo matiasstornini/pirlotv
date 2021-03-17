@@ -26,15 +26,14 @@ let Est=[
 ];
 
 let Enl = [
-    "",
+    AEsp[0],
     "","",
     "","","",
     "","","","",
-    "","",""
+    AMex[3],"",""
 ];
 
 let Title=[
-//temoralmente obsoleto
 "LaLiga <b><b>(España)</b>",
 "Champions League <b>(Octavos)</b>","Champions League <b>(Octavos)</b>",
 "Conmebol Libertadores ","Conmebol Libertadores ","Conmebol Libertadores ",
