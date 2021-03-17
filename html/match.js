@@ -26,11 +26,11 @@ let Est=[
 ];
 
 let Enl = [
-    AEsp[0],
-    "","",
+    "",
+    AUcl[0],AUcl[1],
     "","","",
     "","","","",
-    AMex[3],"",""
+    "",AMex[3],""
 ];
 
 let Title=[
