@@ -18,15 +18,15 @@ let Est=[
 ];
 
 let Enl = [
-    "","","","","","","","",
+    AIng[3],AIng[4],AEsp[3],"","","","","",
     "",
     "","","","","","",
 ];
 
 let Title=[
 "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
-"Conmebol Libertadores ",
-"Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ",
+"Conmebol Libertadores",
+"Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",
 "LaLiga <b><b>(España)</b>",
 "Champions League <b>(Octavos)</b>","Champions League <b>(Octavos)</b>",
 "Copa Argentina","Copa Argentina","Copa Argentina",
