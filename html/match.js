@@ -24,7 +24,7 @@ let Enl = [
 ];
 
 let Title=[
-"Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>","Europa League <b>(Dieciseisavos)</b>",
+"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
 "Conmebol Libertadores ",
 "Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ","Conmebol Sudamericana ",
 "LaLiga <b><b>(España)</b>",
