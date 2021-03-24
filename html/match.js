@@ -12,8 +12,8 @@ let Est=[
 ];
 
 let Enl = [
-    ACol[0],"",
-    ""
+    ACol[0],ACol[0],
+    AMex[3]
 ];
 
 let Title=[
