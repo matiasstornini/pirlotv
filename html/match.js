@@ -1,24 +1,40 @@
 let Match=[
-" Boyacá Chicó - Envigado "," Santa Fe - Once Caldas ",
+" Bélgica - Gales ",
+" Francia - Ucrania ",
+" Portugal - Azerbaiyán ",
+    
+" Atlético Tucumán - Huracán ",
 
-" Gimnasia La Plata - Dock Sud ",
+" Boca Juniors - Defensores de Belgrano ",
+
+" América de Cali - Medellín "," Deportes Tolima - Junior "," Atlético Nacional - Jaguares de Córdoba ",
+
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887180/boyaca-chico-vs-envigado/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887182/santa-fe-vs-once-caldas/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863120/belgium-vs-wales/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863118/france-vs-ukraine/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863115/portugal-vs-azerbaijan/ ',
+    
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952557/boca-juniors-vs-defensores-de-belgrano/ ',
 
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3951215/gimnasia-la-plata-vs-dock-sud/ '
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887181/america-de-cali-vs-medellin/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887174/deportes-tolima-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887179/atletico-nacional-vs-jaguares-de-cordoba/ ',
+
 ];
 
 let Enl = [
-    ACol[0],ACol[0],
-    AMex[3]
+    "","","",
+    "",
+    "",
+    "","",""
 ];
 
 let Title=[
-"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
+"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
+"Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>"*/,
 "Copa Argentina",/*"Copa Argentina","Copa Argentina"*/,
+"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     
 "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",
@@ -28,7 +44,6 @@ let Title=[
 "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",
     
     
-"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",
     
 "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
 "Conmebol Libertadores",
@@ -38,7 +53,7 @@ let Title=[
 "Primera Division <b>(Chile)</b>",
 // "Serie A <b>(Italia)</b>",
 
-"Fifa World Cup",
+
 
 
 
