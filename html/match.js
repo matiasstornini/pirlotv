@@ -32,8 +32,8 @@ let Enl = [
 
 let Title=[
 "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
-"Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>"*/,
-"Copa Argentina",/*"Copa Argentina","Copa Argentina"*/,
+"Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
+"Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
 "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     
 "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
