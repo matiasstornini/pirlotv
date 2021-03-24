@@ -28,7 +28,7 @@ let Enl = [
     AEuro[0],AFra[0],AEuro[1],
     "",
     "",
-    "","",""
+    ACol[0],"",""
 ];
 
 let Title=[
