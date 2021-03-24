@@ -40,7 +40,7 @@ let fra = [
 ];
 
 let euro = [
-""+blog+"compeuro-0a-m3u8.html",""+blog+"ompeuro-0b-m3u8.html",
+""+blog+"compeuro-0a-m3u8.html",""+blog+"compeuro-0b-m3u8.html",
 ""+blog+"conmebol-1-m3u8.html",""+blog+"conmebol-1b-m3u8.html",
 ""+blog+"bundes-2-m3u8.html",""+blog+"bundes-2b-m3u8.html"
 

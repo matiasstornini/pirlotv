@@ -25,7 +25,7 @@ let Est=[
 ];
 
 let Enl = [
-    "","","",
+    AEuro[0],AFra[0],AEuro[1],
     "",
     "",
     "","",""
