@@ -21,7 +21,7 @@
     let Enl = [
         AEsp[3],AIta[3],AIng[3],AAle[1],
         "",
-        ACol[0],"","","",
+        "",ACol[0],"","",
     ];
 
     let Title=[
