@@ -1,13 +1,10 @@
     let Match=[
-    " Bélgica - Gales ",
-    " Francia - Ucrania ",
-    " Portugal - Azerbaiyán ",
+"España - Grecia "," Italia - Irlanda Norte "," Inglaterra - San Marino"," Alemania - Islandia",
 
-    " Atlético Tucumán - Huracán ",
+" San Lorenzo - Defensa y Justicia ",
 
-    " Boca Juniors - Defensores de Belgrano ",
+" Deportivo Pasto - Patriotas Boyacá "," La Equidad - Alianza Petrolera "," Atlético Bucaramanga - Deportivo Cali "," Rionegro Águilas - Millonarios ",
 
-    " América de Cali - Medellín "," Deportes Tolima - Junior "," Atlético Nacional - Jaguares de Córdoba ",
 
 
     ];
@@ -25,18 +22,17 @@
     ];
 
     let Enl = [
-        "","","",
+        "","","","",
         "",
-        "",
-        "","",ACol[0]
+        "","","","",
     ];
 
     let Title=[
-    "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
-    "Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
+    "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
     "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
-    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
+    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
 
+    "Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
     "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
     "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",
 
