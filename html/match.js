@@ -10,14 +10,11 @@
     ];
 
     let Est=[
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863120/belgium-vs-wales/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863118/france-vs-ukraine/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863115/portugal-vs-azerbaijan/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863127/spain-vs-greece/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863130/italy-vs-northern-ireland/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863135/england-vs-san-marino/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863137/germany-vs-iceland/ ',
 
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3906671/atletico-tucuman-vs-huracan/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952557/boca-juniors-vs-defensores-de-belgrano/ ',
-
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887181/america-de-cali-vs-medellin/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887174/deportes-tolima-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887179/atletico-nacional-vs-jaguares-de-cordoba/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952558/san-lorenzo-vs-defensa-y-justicia/ ',
+        
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887176/deportivo-pasto-vs-patriotas-boyaca/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887178/la-equidad-vs-alianza-petrolera/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887175/atletico-bucaramanga-vs-deportivo-cali/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887177/rionegro-aguilas-vs-millonarios/ ',
 
     ];
 
