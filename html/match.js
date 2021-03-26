@@ -7,11 +7,10 @@ let Est=[
 ];
 
 let Enl = [
-    "",""
+    AArg[0],""
 ];
 
 let Title=[
-    "Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",
 "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
 "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
 "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
