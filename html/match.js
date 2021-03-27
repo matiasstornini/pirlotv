@@ -18,8 +18,8 @@ let Est=[
 
 let Enl = [
     AEuro[0],AEuro[1],
-    "",AArg[0],"","",
-    ACol[0],ACol[0],"",""
+    "","",AArg[0],"",
+    "",ACol[0],"",""
 ];
 
 let Title=[
