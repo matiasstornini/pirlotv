@@ -1,21 +1,33 @@
 let Match=[
-" Lanús - Patronato "," Unión Santa Fe - Sarmiento ",
+"Serbia - Portugal ","Rep. Checa - Belgica",
+
+" Platense - Colón "," Aldosivi - Banfield "," Argentinos Juniors - Arsenal "," Rosario Central - Central Córdoba SdE ",
+
+" Envigado - Deportes Tolima "," Once Caldas - Boyacá Chicó "," Junior - Santa Fe "," Medellín - Atlético Nacional ",
+
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917340/lanus-vs-patronato/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3924458/union-santa-fe-vs-sarmiento/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863145/serbia-vs-portugal/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863147/czech-republic-vs-belgium/',
+    
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917331/platense-vs-colon/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917334/aldosivi-vs-banfield/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917330/argentinos-juniors-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917332/rosario-central-vs-central-cordoba-sde/ ',
+
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887186/envigado-vs-deportes-tolima/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887185/once-caldas-vs-boyaca-chico/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887184/junior-vs-santa-fe/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887188/medellin-vs-atletico-nacional/ ',
+
 ];
 
 let Enl = [
-    "",""
+    "","",
+    "","","","",
+    "","","",""
 ];
 
 let Title=[
-"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
-"Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
-"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
+"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
+"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",
+"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
 
-"Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
+"Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
 "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",
 
