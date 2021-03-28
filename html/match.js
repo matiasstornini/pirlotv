@@ -9,7 +9,7 @@ let Match=[
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863150/kazakhstan-vs-france/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863151/georgia-vs-spain/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863156/bulgaria-vs-italy/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863164/romania-vs-germany/',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863150/kazakhstan-vs-france/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863151/georgia-vs-spain/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863156/bulgaria-vs-italy/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863164/romania-vs-germany/','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863164/romania-vs-germany/',
     
 'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917341/talleres-cordoba-vs-godoy-cruz/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917336/defensa-y-justicia-vs-velez-sarsfield/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917329/river-plate-vs-racing-club/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917335/independiente-vs-boca-juniors/ ',
 
@@ -18,8 +18,8 @@ let Est=[
 
 let Enl = [
     "","","","","",
-    "",AArg[0],"","",
-    ACol[0],ACol[0],"","",
+    "","",AArg[0],"",
+    "",ACol[0],"","",
 ];
 
 let Title=[
