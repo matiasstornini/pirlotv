@@ -17,9 +17,9 @@ let Est=[
 ];
 
 let Enl = [
-    "","","",AEuro[1],AEuro[0],
+    "","","","","",
     "",AArg[0],"","",
-    ACol[0],"","","",
+    ACol[0],ACol[0],"","",
 ];
 
 let Title=[
