@@ -1,35 +1,35 @@
 let Match=[
-" Estudiantes - San Lorenzo "," Atlético Tucumán - Newell's Old Boys "," Huracán - Gimnasia La Plata ",
-
-" Deportivo Cali - Deportivo Pasto ",
-
-
+"Luxemburgo - Portugal", "Belgica - Bielorrusia", "Gibraltar - Paises Bajos",
+" Deportes Tolima - Atlético Nacional "," Jaguares de Córdoba - Junior ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917333/estudiantes-vs-san-lorenzo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917338/atletico-tucuman-vs-newells-old-boys/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917339/huracan-vs-gimnasia-la-plata/ ',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887190/deportivo-cali-vs-deportivo-pasto/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863166/luxembourg-vs-portugal/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863167/belgium-vs-belarus/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3863169/gibraltar-vs-netherlands/ ',
+    
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887192/deportes-tolima-vs-atletico-nacional/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887193/jaguares-de-cordoba-vs-junior/ ',
 ];
 
 let Enl = [
-    "","","","","","",
+    "","","",
+    "","",
 ];
 
 let Title=[
-"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",
+"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",/*"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",*/
 "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
 
 "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
 "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",
+"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",
 
 "LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",
 
 "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",
 
 
-"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
 
 "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
 "Conmebol Libertadores",
