@@ -1,5 +1,5 @@
 let Match=[
-" Deportivo Pasto - Atlético Bucaramanga "," Boyacá Chicó - Alianza Petrolera "," La Equidad - Deportivo Cali ",
+" Deportivo Pasto - Atlético Bucaramanga (Susp.)"," Boyacá Chicó - Alianza Petrolera "," La Equidad - Deportivo Cali ",
 ];
 
 let Est=[
@@ -7,9 +7,7 @@ let Est=[
 ];
 
 let Enl = [
-    "","","","","",
-    "",
-    "","",ACol[0]
+    "","",""
 ];
 
 let Title=[
