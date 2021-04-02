@@ -1,30 +1,36 @@
 let Match=[
-" Deportivo Pasto - Atlético Bucaramanga (Susp.)"," Boyacá Chicó - Alianza Petrolera "," La Equidad - Deportivo Cali ",
+ " Levante - Huesca ",
+ " Patronato - Aldosivi "," San Lorenzo - Rosario Central "," Central Córdoba SdE - Platense ",
+ " Santa Fe - Deportivo Pereira "
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887195/deportivo-pasto-vs-atletico-bucaramanga/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887198/boyaca-chico-vs-alianza-petrolera/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887197/la-equidad-vs-deportivo-cali/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757478/levante-vs-huesca/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917354/patronato-vs-aldosivi/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917343/san-lorenzo-vs-rosario-central/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917344/central-cordoba-sde-vs-platense/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887200/santa-fe-vs-deportivo-pereira/ ',
 ];
 
 let Enl = [
-    "",ACol[0],ACol[0]
+    "",
+    "","","",
+    "",
 ];
 
 let Title=[
+"LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",*/
+"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
 "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
-"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
-"Copa Maradona -Pendiente- <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",*/
 
 "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
 "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",
 
-"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",
 
 "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",
 
 
 
+"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
 "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
 "Conmebol Libertadores",
 "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",
