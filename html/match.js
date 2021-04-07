@@ -1,36 +1,46 @@
 let Match=[
-    " Manchester City - Borussia Dortmund "," Real Madrid - Liverpool ",
-     " San Lorenzo - Santos ",
-    " Emelec - Macará "," Nacional Asunción - 12 de Octubre "," Cerro Largo - Peñarol "," Deportivo Cali - Deportes Tolima "," Huachipato - Antofagasta ",
-     " Deportivo Pereira - Medellín "," Alianza Petrolera - Santa Fe ",
+     " Bayern München - PSG "," Porto - Chelsea ",
+     " Real Sociedad - Athletic Club ",
+     " Internazionale - Sassuolo "," Juventus - Napoli ",
+     " Defensa y Justicia - Palmeiras ",
+     " Independiente del Valle - Grêmio "," Libertad - Atlético Nacional ",
+     " Mineros de Guayana - Aragua "," Nacional Potosí - Guabirá "," Torque - Fénix "," Atlético Palmaflor - Wilstermann "," Sport Huancayo - UTC Cajamarca ",
+    
 
 ];
 
 let Est=[
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952419/manchester-city-vs-borussia-dortmund/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952425/real-madrid-vs-liverpool/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952441/san-lorenzo-vs-santos/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917284/emelec-vs-macara/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917286/nacional-asuncion-vs-12-de-octubre/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968461/cerro-largo-vs-penarol/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917288/deportivo-cali-vs-deportes-tolima/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3931899/huachipato-vs-antofagasta/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887205/deportivo-pereira-vs-medellin/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887201/alianza-petrolera-vs-santa-fe/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952423/bayern-m-nchen-vs-psg/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952421/porto-vs-chelsea/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952437/real-sociedad-vs-athletic-club/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959574/internazionale-vs-sassuolo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3787372/juventus-vs-napoli/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959115/defensa-y-justicia-vs-palmeiras/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3951610/independiente-del-valle-vs-gremio/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952445/libertad-vs-atletico-nacional/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917292/mineros-de-guayana-vs-aragua/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917290/nacional-potosi-vs-guabira/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968463/torque-vs-fenix/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917296/atletico-palmaflor-vs-wilstermann/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917294/sport-huancayo-vs-utc-cajamarca/ ',
+    
 ];
 
 let Enl = [
     "","",
-    "","","","","","","",
-    ACol[0]
+    "",
+    "","",
+    "",
+    "","",
+    "","","","","",
 
 ];
 
 let Title=[
     "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
-    "Conmebol Libertadores",
+    "LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",*/
+    "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",*/
+    "RECOPA Sudamericana (IDA)",
+    "Conmebol Libertadores","Conmebol Libertadores",
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
-    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
 
     "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",*/
-    "LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",*/
+    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     "Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",*/
     "Copa del Rey <b>(España)</b>",
-    "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>",*/
     "Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",/*"Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",*/
 
     "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
