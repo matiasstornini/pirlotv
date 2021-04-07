@@ -4,7 +4,7 @@ let Match=[
      " Internazionale - Sassuolo "," Juventus - Napoli ",
      " Talleres Córdoba - Vélez Sarsfield "," Atlético Tucumán - River Plate ",
      " Defensa y Justicia - Palmeiras ",
-     " Independiente del Valle - Grêmio "," Libertad - Atlético Nacional ",
+     " Independiente del Valle - Grêmio (Susp.) "," Libertad - Atlético Nacional ",
      " Mineros de Guayana - Aragua "," Nacional Potosí - Guabirá "," Torque - Fénix "," Atlético Palmaflor - Wilstermann "," Sport Huancayo - UTC Cajamarca ",
     
 
@@ -26,7 +26,7 @@ let Enl = [
     AEsp[0],
     "","",
     "",
-    "","",
+    AMex[3],"",
     "","","","","",
 
 ];
