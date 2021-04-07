@@ -22,8 +22,8 @@ let Est=[
 ];
 
 let Enl = [
-    "","",
-    "",
+    AUcl[0],AUcl[1],
+    AEsp[0],
     AIta[0],AIta[1],
     "",
     "","",
