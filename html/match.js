@@ -28,7 +28,7 @@ let Enl = [
     "",AMex[3],
     AConmebol[0],
     "",AEsp[0],
-    "","","",ALib[4],ALib[5],
+    "","","",AConmebol[1],AConmebol[2],
 
 ];
 
