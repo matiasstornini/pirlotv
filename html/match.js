@@ -1,18 +1,23 @@
 let Match=[
     " Ajax - Roma "," Arsenal - Slavia Praha "," Dinamo Zagreb - Villarreal "," Granada - Manchester United ",
-    "Bolivar - Junior", "Guayaquil City - Aucas", "River (P) - Guaireña", "Puerto Cabello - Metropolitanos", "Dep. Pasto - La Equidad", "Melgar - CA Mannucci", "Palestino - Cobresal"
+    "Bolivar - Junior",
+    " Academia Puerto Cabello - Metropolitanos "," Guayaquil City - Aucas "," Guayaquil City - Guaireña "," Deportivo Pasto - La Equidad "," Melgar - Carlos Manucci "," Palestino - Cobresal ",
     
 ];
 
 let Est=[
     'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952431/ajax-vs-roma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952429/arsenal-vs-slavia-praha/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952433/dinamo-zagreb-vs-villarreal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952427/granada-vs-manchester-united/ ',
     
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952443/bolivar-vs-junior/ ',
+    
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917300/academia-puerto-cabello-vs-metropolitanos/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917302/guayaquil-city-vs-aucas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917298/guayaquil-city-vs-guairena/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917304/deportivo-pasto-vs-la-equidad/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917306/melgar-vs-carlos-manucci/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3931900/palestino-vs-cobresal/ ',
+    
 ];
 
 let Enl = [
-    "","",
+    AIta[3],AIng[3],AEsp[3],AEsp[2],
     "",
-    "","","","","","","","",
+    "","","","","","",
 
 ];
 
