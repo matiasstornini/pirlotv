@@ -1,45 +1,31 @@
 let Match=[
-     " Bayern München - PSG "," Porto - Chelsea ",
-     " Real Sociedad - Athletic Club ",
-     " Internazionale - Sassuolo "," Juventus - Napoli ",
-     " Talleres Córdoba - Vélez Sarsfield "," Atlético Tucumán - River Plate ",
-     " Defensa y Justicia - Palmeiras ",
-     " Independiente del Valle - Grêmio (Susp.) "," Libertad - Atlético Nacional ",
-     " Mineros de Guayana - Aragua "," Nacional Potosí - Guabirá "," Torque - Fénix "," Atlético Palmaflor - Wilstermann "," Sport Huancayo - UTC Cajamarca ",
+    " Ajax - Roma "," Arsenal - Slavia Praha "," Dinamo Zagreb - Villarreal "," Granada - Manchester United ",
+    "Bolivar - Junior", "Guayaquil City - Aucas", "River (P) - Guaireña", "Puerto Cabello - Metropolitanos", "Dep. Pasto - La Equidad", "Melgar - CA Mannucci", "Palestino - Cobresal"
     
-
 ];
 
 let Est=[
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952423/bayern-m-nchen-vs-psg/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952421/porto-vs-chelsea/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952437/real-sociedad-vs-athletic-club/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959574/internazionale-vs-sassuolo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3787372/juventus-vs-napoli/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3960543/talleres-cordoba-vs-velez-sarsfield/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3956640/atletico-tucuman-vs-river-plate/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959115/defensa-y-justicia-vs-palmeiras/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3951610/independiente-del-valle-vs-gremio/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952445/libertad-vs-atletico-nacional/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917292/mineros-de-guayana-vs-aragua/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917290/nacional-potosi-vs-guabira/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968463/torque-vs-fenix/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917296/atletico-palmaflor-vs-wilstermann/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917294/sport-huancayo-vs-utc-cajamarca/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952431/ajax-vs-roma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952429/arsenal-vs-slavia-praha/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952433/dinamo-zagreb-vs-villarreal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952427/granada-vs-manchester-united/ ',
     
 ];
 
 let Enl = [
     "","",
     "",
-    "","",
-    "",AMex[3],
-    AConmebol[0],
-    "",AEsp[0],
-    "","","",AConmebol[1],AConmebol[2],
+    "","","","","","","","",
 
 ];
 
 let Title=[
+    "Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
+    "Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana",*/
+    
     "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
     "LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",*/
     "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",*/
     "Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
     "RECOPA Sudamericana (IDA)",
-    "Conmebol Libertadores","Conmebol Libertadores",
-    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
 
     "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",*/
     "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
@@ -50,7 +36,6 @@ let Title=[
     "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 
     "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
-    "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
     "Primera Division <b>(Chile)</b>",
     // "Serie A <b>(Italia)</b>",
 
