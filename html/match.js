@@ -1,11 +1,8 @@
 let Match=[
-
-
-"Fulham - Wolverhampton",
-"Huesca - Elche",
-   "0Ind. del Valle - Gremio",
-
-"Platense - San Lorenzo"
+    "Fulham - Wolverhampton",
+    "Huesca - Elche",
+    "Ind. del Valle - Gremio",
+    "Platense - San Lorenzo"
 ];
 
 let Est=[
@@ -19,7 +16,7 @@ let Est=[
 ];
 
 let Enl = [
-    "","",
+    AIng[0],AEsp[0],
     "",
     "","",
     "",
