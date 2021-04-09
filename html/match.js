@@ -1,36 +1,41 @@
 let Match=[
-    " Ajax - Roma "," Arsenal - Slavia Praha "," Dinamo Zagreb - Villarreal "," Granada - Manchester United ",
-    "Bolivar - Junior",
-    " Academia Puerto Cabello - Metropolitanos "," Guayaquil City - Aucas "," Guayaquil City - Guaireña "," Deportivo Pasto - La Equidad "," Melgar - Carlos Manucci "," Palestino - Cobresal ",
-    
+
+
+"Fulham - Wolverhampton",
+"Huesca - Elche",
+   "0Ind. del Valle - Gremio",
+
+"Platense - San Lorenzo"
 ];
 
 let Est=[
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952431/ajax-vs-roma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952429/arsenal-vs-slavia-praha/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952433/dinamo-zagreb-vs-villarreal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952427/granada-vs-manchester-united/ ',
-    
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952443/bolivar-vs-junior/ ',
-    
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917300/academia-puerto-cabello-vs-metropolitanos/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917302/guayaquil-city-vs-aucas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917298/guayaquil-city-vs-guairena/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917304/deportivo-pasto-vs-la-equidad/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917306/melgar-vs-carlos-manucci/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3931900/palestino-vs-cobresal/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952423/bayern-m-nchen-vs-psg/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952421/porto-vs-chelsea/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952437/real-sociedad-vs-athletic-club/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959574/internazionale-vs-sassuolo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3787372/juventus-vs-napoli/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959115/defensa-y-justicia-vs-palmeiras/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3951610/independiente-del-valle-vs-gremio/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952445/libertad-vs-atletico-nacional/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917292/mineros-de-guayana-vs-aragua/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917290/nacional-potosi-vs-guabira/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968463/torque-vs-fenix/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917296/atletico-palmaflor-vs-wilstermann/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917294/sport-huancayo-vs-utc-cajamarca/ ',
     
 ];
 
 let Enl = [
-    "","","","",
-    ALib[0],
-    "","","", AConmebol[0],AConmebol [1],AConmebol[2],
+    "","",
+    "",
+    "","",
+    "",
+    "","",
+    "","","","","",
 
 ];
 
 let Title=[
-    "Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
-    "Conmebol Libertadores",/*"Conmebol Libertadores",*/
-    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana",*/
-    
+    "Premier League","LaLiga","Conmebol Libertadores","Liga Argentina",
     "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
     "LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",*/
     "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",*/
-    "Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
     "RECOPA Sudamericana (IDA)",
+    "Conmebol Libertadores","Conmebol Libertadores",
+    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
 
     "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",*/
     "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
@@ -38,9 +43,11 @@ let Title=[
     "Copa del Rey <b>(España)</b>",
     "Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",/*"Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",*/
 
+    "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
     "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 
     "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
+    "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
     "Primera Division <b>(Chile)</b>",
     // "Serie A <b>(Italia)</b>",
 
