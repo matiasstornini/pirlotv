@@ -3,7 +3,7 @@ let Match=[
      " Getafe - Cádiz "," Athletic Club - Deportivo Alavés "," Eibar - Levante "," Real Madrid - Barcelona ",
      " Spezia - Crotone "," Parma - Milan "," Udinese - Torino ",
     " Bayern München - Union Berlin "," Eintracht Frankfurt - Wolfsburg "," Hertha BSC - Borussia M'gladbach "," Werder Bremen - RB Leipzig "," Stuttgart - Borussia Dortmund ",
-     " Godoy Cruz - Arsenal "," Estudiantes - Aldosivi "," Defensa y Justicia - Talleres Córdoba "," Racing Club - Independiente ",
+     " Godoy Cruz - Arsenal (Susp.)"," Estudiantes - Aldosivi "," Defensa y Justicia - Talleres Córdoba "," Racing Club - Independiente ",
      " Medellín - Alianza Petrolera "," Jaguares de Córdoba - América de Cali "," Deportivo Cali - Atlético Nacional ",
     
     
@@ -23,11 +23,11 @@ let Est=[
 ];
 
 let Enl = [
-    "","",AIng[0],
-    "","",AEsp[0],"",
-    "",AIta[0],"",
-    "","","","",AAle[0],
-    "","","","",
+    "","","",
+    "","","",AEsp[0]+" "+AEsp[1],
+    "","","",
+    "","","","","",
+    "",AArg[0],"","",
     "","","",
 
 
@@ -38,7 +38,7 @@ let Title=[
     "LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>",*/
     "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",*/
     "Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",
-    "Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
+    "Liga Profesional <b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
     "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     
     "RECOPA Sudamericana (IDA)",
