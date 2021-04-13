@@ -13,7 +13,7 @@ let Est=[
 ];
 
 let Enl = [
-    AUcl[0],AUcl[1],
+    "","",
     "",
     "",
     "",
