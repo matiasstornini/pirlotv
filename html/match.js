@@ -1,25 +1,24 @@
-let Match=[
-
-     " Celta de Vigo - Sevilla ",
-    " Huracán - Sarmiento "," Lanús - Newell's Old Boys "," Atlético Tucumán - Vélez Sarsfield ",
-    "Dep. Tolima	- Bucaramanga"
-    
-    
+let Match=[    
+     " Chelsea - Porto "," PSG - Bayern München ",
+     " Santos - San Lorenzo ",
+     " Peñarol - Cerro Largo ",
+     " Patriotas Boyacá - Once Caldas ",
 ];
 
 let Est=[
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757486/celta-de-vigo-vs-sevilla/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3924460/huracan-vs-sarmiento/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917365/lanus-vs-newells-old-boys/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917363/atletico-tucuman-vs-velez-sarsfield/ ',
-    
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887210/deportes-tolima-vs-atletico-bucaramanga/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952422/chelsea-vs-porto/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952424/psg-vs-bayern-m-nchen/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952442/santos-vs-san-lorenzo/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968462/penarol-vs-cerro-largo/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887216/patriotas-boyaca-vs-once-caldas/ ',
 ];
 
 let Enl = [
+    "","",
     "",
-    "","",AArg[0],
-    ACol[0],
-    "","","",
-    "","","",
+    "",
+    "",
+    
+    "","","","",
     "","","","","",
     "","","",
 
@@ -27,20 +26,21 @@ let Enl = [
 ];
 
 let Title=[
+    
+    "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
+    "Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
+    
     "LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>",*/
     "Liga Profesional <b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
     "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",*/
     "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",
-    
     "Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",
     "RECOPA Sudamericana (IDA)",
-    "Conmebol Libertadores","Conmebol Libertadores",
-    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
 
     "Copa del Rey <b>(España)</b>",
 
-    "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
     "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
     "FA CUP <b>(Inglaterra)</b>","FA CUP <b>(Inglaterra)</b>",
 
