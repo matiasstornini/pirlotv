@@ -11,7 +11,7 @@ let Est=[
 ];
 
 let Enl = [
-    AEsp[2],AIta[3],AIng[3],AEsp[3],
+    "","","","",
     "",
     "",
 
