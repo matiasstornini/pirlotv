@@ -1,36 +1,30 @@
 let Match=[    
-    " Borussia Dortmund - Manchester City "," Liverpool - Real Madrid ",
-    " Grêmio - Independiente del Valle "," Atlético Nacional - Libertad ",
-     " Palmeiras - Defensa y Justicia ",
-    " San Martín San Juan - Racing Club ",
+    " Manchester United - Granada "," Roma - Ajax "," Slavia Praha - Arsenal "," Villarreal - Dinamo Zagreb ",
+     " Junior - Bolívar ",
+    " Deportivo Pasto - Atlético Bucaramanga ",
 ];
 
 let Est=[
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952420/borussia-dortmund-vs-manchester-city/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952426/liverpool-vs-real-madrid/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3951611/gremio-vs-independiente-del-valle/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952446/atletico-nacional-vs-libertad/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3959116/palmeiras-vs-defensa-y-justicia/ ',
-    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3960545/san-martin-san-juan-vs-racing-club/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952428/manchester-united-vs-granada/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952432/roma-vs-ajax/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952430/slavia-praha-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952434/villarreal-vs-dinamo-zagreb/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3952444/junior-vs-bolivar/ ',
+    'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968466/deportivo-pasto-vs-atletico-bucaramanga/ ',
 ];
 
 let Enl = [
-    "","",
-    "",ALib[0],
-    AConmebol[0],
-    AMex[3],
-    "","","","","",
-    "","","",
-
+    "","","","",
+    "",
+    "",
 
 ];
 
 let Title=[
     
-    "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
-    "Conmebol Libertadores","Conmebol Libertadores",
+    "Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
+    "Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     "RECOPA Sudamericana (VUELTA)",
     "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
     "Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
-    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",
     
     "LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>",*/
     "Liga Profesional <b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
@@ -44,7 +38,7 @@ let Title=[
 
     "Premier League","LaLiga","Conmebol Libertadores","Liga Argentina",
     "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
-    "Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",
+    "Champions League <b>(Cuartos)</b>","Champions League <b>(Cuartos)</b>",
     "Primera Division <b>(Chile)</b>",
     // "Serie A <b>(Italia)</b>",
 
