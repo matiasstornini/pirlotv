@@ -88,11 +88,27 @@ let mex = [
 ];
 
 let go = [
-""+blog+"go-href-0.html",""+blog+"go-href-1.html",
+""+blog+"go-href-0.html",
+""+blog+"go-href-1.html",
+""+blog+"go-href-2.html",
+""+blog+"go-href-3.html",
+""+blog+"go-href-4.html",
 ];
 
 let cpa = [
 "https://bit.ly/3pLvAkY",
 
 ""+blog+"go-href-1.html",
+];
+
+let ext = [
+""+blog+"extra-0a-m3u8.html",
+""+blog+"extra-0b-m3u8.html",
+""+blog+"extra-0c-m3u8.html",
+""+blog+"extra-0d-m3u8.html",
+""+blog+"extra-0e-m3u8.html",
+""+blog+"extra-0f-m3u8.html",
+""+blog+"extra-0g-m3u8.html",
+""+blog+"extra-0h-m3u8.html",
+
 ];
