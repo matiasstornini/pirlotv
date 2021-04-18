@@ -25,7 +25,7 @@ let Enl = [
     "","","","","",AIta[0],
     "",
     "",AArg[0],"","",
-    "","","","","","","","",
+    Extra[0],Extra[1],Extra[2],Extra[3],Extra[4],Extra[5],Extra[6],Extra[7]
 ];
 
 let Title=[
