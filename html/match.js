@@ -18,11 +18,11 @@ let Est=[
 ];
 
 let Enl = [
-    "","",
-    "","","","","","",
-    "","","","","","",
+    "",
     "","","","",
-    "","","","",""
+    "","",
+    "","","",
+    "","","","","","","","",
 ];
 
 let Title=[
@@ -35,7 +35,7 @@ let Title=[
     /*"Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",/*"Bundesliga <b><b>(Alemania)</b>",*/
     
     "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",*/
-    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
+    "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     "FA CUP <b>(Inglaterra)</b>",/*"FA CUP <b>(Inglaterra)</b>",*/
     
     
