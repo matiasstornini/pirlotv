@@ -19,7 +19,7 @@ let Est=[
 
 let Enl = [
     "",
-    "","","",AEsp[0],
+    "","","","",
     "","",
     ALib[0],"","",
     "",Extra[0],Extra[1],Extra[2],Extra[3],"","","",
