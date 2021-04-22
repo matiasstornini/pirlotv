@@ -20,7 +20,7 @@ let Est=[
 let Enl = [
     "",
     "","","","",
-    "","",
+    AIta[0],"",
     "","","",
     "","","","","","","","",
 ];
@@ -28,11 +28,11 @@ let Enl = [
 let Title=[
     "Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",*/
 
-    "LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>","LaLiga <b><b>(España)</b>",/*"LaLiga <b><b>(España)</b>",*/
+    "LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
 
-    "Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",/*"Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>","Serie A <b><b>(Italia)</b>",*/
+    "Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
 
-    /*"Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>","Bundesliga <b><b>(Alemania)</b>",/*"Bundesliga <b><b>(Alemania)</b>",*/
+    /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
     
     "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
@@ -44,7 +44,7 @@ let Title=[
     "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
     
 
-    "Liga Profesional <b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>","Liga Profesional <b><b>(Argentina)</b>",/*"Liga Profesional <b><b>(Argentina)</b>",*/
+    "Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",*/
 
 
     "Copa del Rey <b>(España)</b>",
