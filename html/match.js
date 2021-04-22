@@ -18,11 +18,11 @@ let Est=[
 ];
 
 let Enl = [
-    AIng[0],
-    "",Extra[0],Extra[1],AEsp[0],
-    "",AIta[0],
+    "",
+    "","","",AEsp[0],
+    "","",
     ALib[0],"","",
-    Extra[2],"","","","","","","",
+    "",Extra[0],Extra[1],Extra[2],Extra[3],"","","",
 ];
 
 let Title=[
