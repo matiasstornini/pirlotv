@@ -19,7 +19,7 @@ let Est=[
 
 let Enl = [
     AIng[0],
-    AEsp[0],Extra[0],Extra[1],"",
+    "",Extra[0],Extra[1],"",
     "",AIta[0],
     "","","",
     Extra[2],"","","","","","","",
