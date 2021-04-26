@@ -12,9 +12,9 @@ let Est=[
 ];
 
 let Enl = [
-    "",
-    AIta[0],"",
-    "",""
+    AEsp[0],
+    "",AIta[0],
+    AArg[0],""
 ];
 
 let Title=[
