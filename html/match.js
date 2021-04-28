@@ -1,26 +1,29 @@
 let Match=[    
- " Real Madrid - Chelsea ",
-  " Atlético Mineiro - América de Cali "," Flamengo - Unión La Calera "," LDU Quito - Vélez Sarsfield "," Boca Juniors - Santos "," Internacional - Deportivo Táchira "," Palmeiras - Independiente del Valle ",
-  " Bahia - Guabirá "," Arsenal - Ceará "," Huachipato - 12 de Octubre ",
+" Athletic Club - Real Valladolid ",
+ " PSG - Manchester City ",
+  " Cerro Porteño - Deportivo La Guaira "," Defensa y Justicia - Universitario "," Nacional - Atlético Nacional "," River Plate - Junior "," Santa Fe - Fluminense "," Barcelona - The Strongest "," Olimpia - Always Ready ",
+   " Athletico-PR - Metropolitanos "," Independiente - Torque "," Deportes Tolima - Talleres Córdoba "," Emelec - RB Bragantino "," Melgar - Aucas "," Rosario Central - San Lorenzo ",
 ];
 
 let Est=[
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978415/real-madrid-vs-chelsea/ ',
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976239/atletico-mineiro-vs-america-de-cali/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976236/flamengo-vs-union-la-calera/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976237/ldu-quito-vs-velez-sarsfield/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978388/boca-juniors-vs-santos/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976230/internacional-vs-deportivo-tachira/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978387/palmeiras-vs-independiente-del-valle/ ',
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976197/bahia-vs-guabira/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976198/arsenal-vs-ceara/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976196/huachipato-vs-12-de-octubre/ ',
+'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757515/athletic-club-vs-real-valladolid/ ',
+'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978413/psg-vs-manchester-city/ ',
+'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976238/cerro-porteno-vs-deportivo-la-guaira/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976228/defensa-y-justicia-vs-universitario/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979268/nacional-vs-atletico-nacional/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3980370/river-plate-vs-junior/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976232/santa-fe-vs-fluminense/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976231/barcelona-vs-the-strongest/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976229/olimpia-vs-always-ready/ ',
+'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976199/athletico-pr-vs-metropolitanos/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978989/independiente-vs-torque/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976204/deportes-tolima-vs-talleres-cordoba/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976203/emelec-vs-rb-bragantino/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976200/melgar-vs-aucas/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3980366/rosario-central-vs-san-lorenzo/ ',
 
 ];
 
 let Enl = [
     "",
-    "","","","","","",
-    "","","","",""
+    "",
+    "","","","","","","",
+    "","","","","",""
 ];
 
 let Title=[
     /*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",*/
 
-    /*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
+    "LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
 
     /*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
 
@@ -31,7 +34,7 @@ let Title=[
     /*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
     "Champions League <b>(Semifinal)</b>",/*"Champions League <b>(Cuartos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
