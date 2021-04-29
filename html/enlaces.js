@@ -124,7 +124,7 @@ let AGo = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[2]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[3]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+go[4]+" ' style='background-color: #ffffff00;'><b>Más</b></a>",
-"<a onclick="'openScreen(' . "'reproductores'" . ')'" class="'waves-effect waves-light btn'"><font color="'#FFFFFF'">Opcion 2 (HD)</font></a>"
+
 ];
 
 let CPA = [
