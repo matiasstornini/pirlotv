@@ -1,18 +1,11 @@
 let Match=[    
-" Barcelona - Granada ",
-" Manchester United - Roma "," Villarreal - Arsenal ",
-" Racing Club - Sporting Cristal "," Universidad Católica - Argentinos Juniors "," São Paulo - Rentistas ",
-" Corinthians - Peñarol "," Sport Huancayo - River Plate "," Wilstermann - Bolívar "," La Equidad - Aragua "," Lanús - Grêmio "," Newell's Old Boys - Libertad "," Palestino - Atlético Goianiense ",
+ " Celta de Vigo - Levante ",
+ " Vélez Sarsfield - Patronato "," Colón - Arsenal ",
 ];
 
 let Est=[
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757517/barcelona-vs-granada/ ',
-
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979254/manchester-united-vs-roma/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979252/villarreal-vs-arsenal/ ',
-
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976234/racing-club-vs-sporting-cristal/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976235/universidad-catolica-vs-argentinos-juniors/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976233/sao-paulo-vs-rentistas/ ',
-
-'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978382/corinthians-vs-penarol/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976201/sport-huancayo-vs-river-plate/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3981091/wilstermann-vs-bolivar/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976205/la-equidad-vs-aragua/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978991/lanus-vs-gremio/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978990/newells-old-boys-vs-libertad/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976202/palestino-vs-atletico-goianiense/ ',
+'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757524/celta-de-vigo-vs-levante/ ',
+'https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917401/velez-sarsfield-vs-patronato/ ','https://pirlotv3.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917399/colon-vs-arsenal/ ',
 ];
 
 let Enl = [
@@ -30,7 +23,7 @@ let Title=[
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
     
-    /*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",*/
+    "Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",*/
     
     /*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
