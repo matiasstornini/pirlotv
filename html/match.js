@@ -2,7 +2,7 @@ let Match=[
  " Crystal Palace - Manchester City "," Brighton & Hove Albion - Leeds United "," Chelsea - Fulham ",
   " Eibar - Deportivo Alavés "," Elche - Atlético Madrid "," Huesca - Real Sociedad "," Real Madrid - Osasuna ",
    " Hellas Verona - Spezia "," Crotone - Internazionale "," Milan - Benevento ",
-   " Millonarios - América de Cali "," Deportivo Cali - Deportes Tolima ",
+   " Millonarios - América de Cali "," Deportivo Cali - Deportes Tolima ", 
 ];
 
 let Est=[
