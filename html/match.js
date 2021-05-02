@@ -1,5 +1,5 @@
 let Match=[    
-" Newcastle United - Arsenal "," Manchester United - Liverpool "," Tottenham Hotspur - Sheffield United ",
+" Newcastle United - Arsenal "," Manchester United - Liverpool (Susp.)"," Tottenham Hotspur - Sheffield United ",
 " Real Valladolid - Real Betis "," Villarreal - Getafe "," Granada - Cádiz "," Valencia - Barcelona ",
 " Lazio - Genoa "," Bologna - Fiorentina "," Napoli - Cagliari "," Sassuolo - Atalanta "," Udinese - Juventus "," Sampdoria - Roma ",
 " Boca Juniors - Lanús "," Defensa y Justicia - Unión Santa Fe "," Independiente - Atlético Tucumán "," San Lorenzo - Godoy Cruz "," Talleres Córdoba - Huracán "," Banfield - River Plate "," Rosario Central - Newell's Old Boys "," Aldosivi - Argentinos Juniors "," Central Córdoba SdE - Racing Club ",
@@ -18,7 +18,7 @@ let Enl = [
     "","","",
     "","",AEsp[0],"",
     "","","","",AIta[0],"",
-    "",AArg[0],AArg[1],"","","","","","",
+    "","","",AArg[0],AArg[1],"","","","",
     "","",
     
     "","","","","","","",
@@ -29,7 +29,7 @@ let Title=[
 
     "LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
 
-    "Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
+    "Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
     
