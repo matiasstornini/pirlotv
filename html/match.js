@@ -2,7 +2,7 @@ let Match=[
 " Newcastle United - Arsenal "," Manchester United - Liverpool (Susp.)"," Tottenham Hotspur - Sheffield United ",
 " Real Valladolid - Real Betis "," Villarreal - Getafe "," Granada - Cádiz "," Valencia - Barcelona ",
 " Lazio - Genoa "," Bologna - Fiorentina "," Napoli - Cagliari "," Sassuolo - Atalanta "," Udinese - Juventus "," Sampdoria - Roma ",
-" Boca Juniors - Lanús "," Defensa y Justicia - Unión Santa Fe "," Independiente - Atlético Tucumán "," San Lorenzo - Godoy Cruz "," Talleres Córdoba - Huracán "," Banfield - River Plate "," Rosario Central - Newell's Old Boys "," Aldosivi - Argentinos Juniors "," Central Córdoba SdE - Racing Club ",
+" Boca Juniors - Lanús "," Defensa y Justicia - Unión Santa Fe "," Independiente - Atlético Tucumán "," San Lorenzo - Godoy Cruz "," Talleres Córdoba - Huracán "," Banfield - River Plate "," Aldosivi - Argentinos Juniors "," Central Córdoba SdE - Racing Club "," Rosario Central - Newell's Old Boys ",
 " Santa Fe - Junior "," Atlético Nacional - La Equidad ",
 ];
 
