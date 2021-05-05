@@ -1,19 +1,19 @@
 let Match=[    
-" Manchester City - PSG ",
-" Atlético Mineiro - Cerro Porteño "," Santos - The Strongest "," Unión La Calera - Vélez Sarsfield "," Barcelona - Boca Juniors "," Defensa y Justicia - Palmeiras "," LDU Quito - Flamengo ",
- " Bahia - Independiente "," Metropolitanos - Aucas "," Melgar - Athletico-PR "," Palestino - Newell's Old Boys ",
+" Chelsea - Real Madrid ",
+ " Independiente del Valle - Universitario "," Racing Club - São Paulo "," Internacional - Olimpia "," Rentistas - Sporting Cristal "," Universidad Católica - Nacional ",
+ " Bolívar - Ceará "," Huachipato - Rosario Central "," Torque - Guabirá "," Deportes Tolima - Emelec "," RB Bragantino - Talleres Córdoba ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978414/manchester-city-vs-psg/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976251/atletico-mineiro-vs-cerro-porteno/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978389/santos-vs-the-strongest/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976248/union-la-calera-vs-velez-sarsfield/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976243/barcelona-vs-boca-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976240/defensa-y-justicia-vs-palmeiras/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976249/ldu-quito-vs-flamengo/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976207/bahia-vs-independiente/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976209/metropolitanos-vs-aucas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976210/melgar-vs-athletico-pr/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976212/palestino-vs-newells-old-boys/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978416/chelsea-vs-real-madrid/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978390/independiente-del-valle-vs-universitario/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976246/racing-club-vs-sao-paulo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976242/internacional-vs-olimpia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976245/rentistas-vs-sporting-cristal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976247/universidad-catolica-vs-nacional/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3981092/bolivar-vs-ceara/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976206/huachipato-vs-rosario-central/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978992/torque-vs-guabira/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976213/deportes-tolima-vs-emelec/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3976214/rb-bragantino-vs-talleres-cordoba/ ',
 ];
 
 let Enl = [
     "",
-    "","","","","","",
-    "","","",Extra[3],
+    "","","","","",
+    "","","","","",
 
     "","",
     "","","","","","","","",
