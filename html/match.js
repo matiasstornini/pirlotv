@@ -37,7 +37,7 @@ let Title=[
 
     "Champions League <b>(Semifinal)</b>",/*"Champions League <b>(Cuartos)</b>",*/
     /*"Europa League <b>(Semifinal)</b>","Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
