@@ -1,16 +1,15 @@
 let Match=[    
-" Chelsea - Arsenal ",
-" Sevilla - Valencia "," Celta de Vigo - Getafe "," Huesca - Athletic Club "," Atlético Madrid - Real Sociedad ",
-" Cagliari - Fiorentina "," Atalanta - Benevento "," Bologna - Genoa "," Internazionale - Roma "," Lazio - Parma "," Sampdoria - Spezia "," Sassuolo - Juventus "," Torino - Milan ",
-" Argentinos Juniors - Universidad Católica "," Rentistas - São Paulo "," Deportivo La Guaira - Cerro Porteño "," Fluminense - Santa Fe "," Junior - River Plate "," Atlético Nacional - Nacional "," Universitario - Defensa y Justicia ",
-" 12 de Octubre - Huachipato "," Ceará - Arsenal "," Atlético Goianiense - Palestino "," Bolívar - Wilstermann "," San Lorenzo - Rosario Central ",
+" Manchester United - Liverpool ",
+" Real Valladolid - Villarreal "," Eibar - Real Betis "," Granada - Real Madrid ",
+" Vélez Sarsfield - LDU Quito "," Always Ready - Olimpia "," América de Cali - Atlético Mineiro ",
+ " Aragua - La Equidad "," Grêmio - Lanús "," Guabirá - Bahia "," Aucas - Melgar "," Libertad - Newell's Old Boys "," Peñarol - Corinthians "," River Plate - Sport Huancayo ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757190/chelsea-vs-arsenal/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757551/sevilla-vs-valencia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757545/celta-de-vigo-vs-getafe/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757548/huesca-vs-athletic-club/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757544/atletico-madrid-vs-real-sociedad/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777280/cagliari-vs-fiorentina/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777279/atalanta-vs-benevento/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777281/bologna-vs-genoa/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777285/internazionale-vs-roma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777284/lazio-vs-parma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777286/sampdoria-vs-spezia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777282/sassuolo-vs-juventus/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777283/torino-vs-milan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977051/argentinos-juniors-vs-universidad-catolica/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977050/rentistas-vs-sao-paulo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977728/deportivo-la-guaira-vs-cerro-porteno/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977727/fluminense-vs-santa-fe/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3980372/junior-vs-river-plate/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979270/atletico-nacional-vs-nacional/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977729/universitario-vs-defensa-y-justicia/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777280/cagliari-vs-fiorentina/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777279/atalanta-vs-benevento/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777281/bologna-vs-genoa/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777285/internazionale-vs-roma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777284/lazio-vs-parma/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777286/sampdoria-vs-spezia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777282/sassuolo-vs-juventus/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3777283/torino-vs-milan/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3993486/manchester-united-vs-liverpool/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757552/real-valladolid-vs-villarreal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757546/eibar-vs-real-betis/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757547/granada-vs-real-madrid/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977730/velez-sarsfield-vs-ldu-quito/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978393/always-ready-vs-olimpia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978394/america-de-cali-vs-atletico-mineiro/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3977730/velez-sarsfield-vs-ldu-quito/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978393/always-ready-vs-olimpia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978394/america-de-cali-vs-atletico-mineiro/ ',
 ];
 
 let Enl = [
@@ -25,9 +24,9 @@ let Enl = [
 let Title=[
     "Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",*/
 
-    "LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
+    "LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
 
-    "Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
+    /*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
     
@@ -37,7 +36,7 @@ let Title=[
 
     /*"Champions League <b>(Semifinal)</b>",/*"Champions League <b>(Cuartos)</b>",*/
     /*"Europa League <b>(Semifinal)</b>","Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
