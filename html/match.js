@@ -1,26 +1,27 @@
 let Match=[    
-" Manchester United - Fulham "," Southampton - Leeds United "," Brighton & Hove Albion - Manchester City "," Chelsea - Leicester City ",
-" Nacional - Universidad Católica "," Palmeiras - Defensa y Justicia "," The Strongest - Santos "," Fluminense - Junior "," São Paulo - Racing Club "," Universitario - Independiente del Valle ",
- " Independiente - Bahia "," River Plate - Peñarol "," Talleres Córdoba - RB Bragantino ",
+" Everton - Wolverhampton Wanderers "," Newcastle United - Sheffield United "," Tottenham Hotspur - Aston Villa "," Crystal Palace - Arsenal "," Burnley - Liverpool "," West Bromwich Albion - West Ham United ",
+" Atalanta - Juventus ",
+" Sporting Cristal - Rentistas "," Vélez Sarsfield - Unión La Calera "," Nacional - Universidad Católica "," Cerro Porteño - Atlético Mineiro "," Flamengo - LDU Quito "," River Plate - Santa Fe ",
+" Atlético Goianiense - Libertad "," Emelec - Deportes Tolima "," Wilstermann - Arsenal "," Athletico-PR - Melgar "," Aucas - Metropolitanos "," Rosario Central - Huachipato ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990348/manchester-united-vs-fulham/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990349/southampton-vs-leeds-united/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990343/brighton-hove-albion-vs-manchester-city/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990345/chelsea-vs-leicester-city/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979273/nacional-vs-universidad-catolica/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979271/palmeiras-vs-defensa-y-justicia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979272/the-strongest-vs-santos/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3982065/fluminense-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979275/sao-paulo-vs-racing-club/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979274/universitario-vs-independiente-del-valle/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3978999/independiente-vs-bahia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979000/river-plate-vs-penarol/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979001/talleres-cordoba-vs-rb-bragantino/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990347/everton-vs-wolverhampton-wanderers/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3989048/newcastle-united-vs-sheffield-united/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757203/tottenham-hotspur-vs-aston-villa/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757198/crystal-palace-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990344/burnley-vs-liverpool/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757204/west-bromwich-albion-vs-west-ham-united/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917624/atalanta-vs-juventus/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979276/sporting-cristal-vs-rentistas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979277/velez-sarsfield-vs-union-la-calera/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979273/nacional-vs-universidad-catolica/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979280/cerro-porteno-vs-atletico-mineiro/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979279/flamengo-vs-ldu-quito/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979278/river-plate-vs-santa-fe/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979004/atletico-goianiense-vs-libertad/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979002/emelec-vs-deportes-tolima/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979003/wilstermann-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979007/athletico-pr-vs-melgar/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979006/aucas-vs-metropolitanos/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979005/rosario-central-vs-huachipato/ ',
 ];
 
 let Enl = [
-    "","","","",
-    "","","",Extra[0],Extra[1],Extra[2],
-    "","",Extra[3],
-    "","",
+    "","","","","","","","","","",
+    "","","",
+    "","","","","","",
     
 ];
 
 let Title=[
-    "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",*/
-    /*"FA CUP <b>(Inglaterra)</b>",*/
+    "Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",*/
+    "Coppa Italia <b>(Final)</b>",
 
    /* "LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>","LaLiga <b>(España)</b>",/*"LaLiga <b>(España)</b>",*/
 
@@ -34,7 +35,7 @@ let Title=[
 
     /*"Champions League <b>(Semifinal)</b>",/*"Champions League <b>(Cuartos)</b>",*/
     /*"Europa League <b>(Semifinal)</b>","Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
