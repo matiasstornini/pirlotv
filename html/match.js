@@ -1,17 +1,14 @@
 let Match=[    
-" Argentinos Juniors - Atlético Nacional "," Boca Juniors - Barcelona "," Olimpia - Internacional ",
-" 12 de Octubre - San Lorenzo "," Ceará - Bolívar "," Newell's Old Boys - Palestino "," Aragua - Grêmio "," Corinthians - Sport Huancayo "," Guabirá - Torque "," Lanús - La Equidad ",
+ " Levante - Cádiz ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979283/argentinos-juniors-vs-atletico-nacional/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979285/boca-juniors-vs-barcelona/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979284/olimpia-vs-internacional/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3982733/12-de-octubre-vs-san-lorenzo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3982734/ceara-vs-bolivar/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979008/newells-old-boys-vs-palestino/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979012/aragua-vs-gremio/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979010/corinthians-vs-sport-huancayo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979009/guabira-vs-torque/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3979011/lanus-vs-la-equidad/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757568/levante-vs-cadiz/ ',
 ];
 
 let Enl = [
 
-    "",ALib[0],Extra[0],
-    "","","",Extra[1],Extra[2],"",Extra[3],
+    "",
     
 ];
 
