@@ -3,7 +3,7 @@ let Match=[
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4005678/racing-club-vs-boca-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4005177/independiente-vs-colon/ ',
+'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4005678/racing-club-vs-boca-juniors/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4005177/independiente-vs-colon/ ',
 ];
 
 let Enl = [
