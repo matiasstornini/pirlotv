@@ -1,14 +1,15 @@
 let Match=[    
- " Croacia - Armenia "," Kosovo - San Marino "," Lituania - Estonia "," North Macedonia - Eslovenia "," Eslovaquia - Bulgaria "," Polonia - Rusia ",
+ " Países Bajos - Escocia "," Rumania - Georgia "," Inglaterra - Austria "," Alemania - Dinamarca "," Francia - Gales ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887076/croatia-vs-armenia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990336/kosovo-vs-san-marino/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4010837/lithuania-vs-estonia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4002837/north-macedonia-vs-slovenia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968448/slovakia-vs-bulgaria/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3972450/poland-vs-russia/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3973643/netherlands-vs-scotland/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917271/romania-vs-georgia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917272/england-vs-austria/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968449/germany-vs-denmark/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990331/france-vs-wales/ ',
+
 ];
 
 let Enl = [
 
-    "","","","","","","",
+    "","","","","","","","",
 
     ""];
 
