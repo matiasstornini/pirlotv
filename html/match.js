@@ -1,10 +1,11 @@
 let Match=[    
- " Países Bajos - Escocia "," Rumania - Georgia "," Inglaterra - Austria "," Alemania - Dinamarca "," Francia - Gales ",
+ " Suiza - Liechtenstein "," Bélgica - Grecia ",
+  " Bolivia - Venezuela "," Uruguay - Paraguay "," Argentina - Chile "," Perú - Colombia ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3973643/netherlands-vs-scotland/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917271/romania-vs-georgia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917272/england-vs-austria/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3968449/germany-vs-denmark/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990331/france-vs-wales/ ',
-
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917274/switzerland-vs-liechtenstein/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3970208/belgium-vs-greece/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757886/bolivia-vs-venezuela/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757883/uruguay-vs-paraguay/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757887/argentina-vs-chile/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757884/peru-vs-colombia/ ',
 ];
 
 let Enl = [
@@ -29,7 +30,8 @@ let Title=[
     /*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
     /*"Champions League <b>(Final)</b>",/*"Champions League <b>(Cuartos)</b>",*/
-    "Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
+    "Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
+    "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
     "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
@@ -43,7 +45,6 @@ let Title=[
     "EFL CARABAO CUP <b>(Inglaterra)</b>",
     "Copa del Rey <b>(España)</b>",
     "Premier League","LaLiga","Conmebol Libertadores","Liga Argentina",
-    "Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",
     "Primera Division <b>(Chile)</b>",
     // "Serie A <b>(Italia)</b>",
 
