@@ -1,22 +1,13 @@
 let Match=[    
-" España - Portugal "," Italia - República Checa ",
-" Colón - Racing Club ",
-" Deportivo Cali - Deportes Tolima ",
- " Brasil - Ecuador ",
+" Suecia - Armenia ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3900647/spain-vs-portugal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3962536/italy-vs-czech-republic/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013889/colon-vs-racing-club/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015073/deportivo-cali-vs-deportes-tolima/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757885/brazil-vs-ecuador/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3955030/sweden-vs-armenia/ ',
 ];
 
 let Enl = [
 
-    "","",
-    "",
-    "",
     "",
 
 
