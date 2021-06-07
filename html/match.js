@@ -1,14 +1,17 @@
 let Match=[    
 " Inglaterra - Rumania "," Luxemburgo - Escocia "," Moldavia - Azerbaiyán "," Países Bajos - Georgia "," Noruega - Grecia "," Bélgica - Croacia ",
+"EE.UU. - Mexico",
 ];
 
 let Est=[
 'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3917276/england-vs-romania/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3973644/luxembourg-vs-scotland/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3955032/moldova-vs-azerbaijan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3973645/netherlands-vs-georgia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990333/norway-vs-greece/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887079/belgium-vs-croatia/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4007446/usa-vs-mexico/ ',
 ];
 
 let Enl = [
 
     "","","","","","",
+    Extra[0],
 
 
     ""];
