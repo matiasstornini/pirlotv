@@ -1,5 +1,5 @@
 let Match=[    
-"Polonia - Islandia","EspañaL - ituania","Francia - Bulgaria",
+"Polonia - Islandia","España - Lituania","Francia - Bulgaria",
 "Ecuador - Peru","Venezuela - Uruguay","Colombia - Argentina","Paraguay - Brasil","Chile - Bolivia"
 ];
 
