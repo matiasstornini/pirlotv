@@ -1,24 +1,14 @@
 let Match=[    
-"Polonia - Islandia","España - Lituania","Francia - Bulgaria",
-"Ecuador - Peru","Venezuela - Uruguay","Colombia - Argentina","Paraguay - Brasil","Chile - Bolivia"
+"Portugal - Israel",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3887080/poland-vs-iceland/',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3996138/spain-vs-lithuania/',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3990334/france-vs-bulgaria/',
-
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757892/ecuador-vs-peru/',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757889/venezuela-vs-uruguay/',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757888/colombia-vs-argentina/',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757890/paraguay-vs-brazil/',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3757891/chile-vs-bolivia/',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3900648/portugal-vs-israel/',
 ];
 
 let Enl = [
 
-    "","","",
-    "","","","",Extra[0],
+    "",
 
 
     ""];
