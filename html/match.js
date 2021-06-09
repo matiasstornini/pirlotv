@@ -18,7 +18,7 @@ let Est=[
 let Enl = [
 
     "","","",
-    "","",AArg[0]+" "+AArg[1],AConmebol[0],"",
+    "","","",AConmebol[0],Extra[0],
 
 
     ""];
