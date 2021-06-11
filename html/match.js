@@ -1,14 +1,14 @@
 let Match=[    
- " Junior - Millonarios "," Deportes Tolima - La Equidad ",
+ " Turquía - Italia ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4017623/junior-vs-millonarios/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4017624/deportes-tolima-vs-la-equidad/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517143/turkey-vs-italy/ ',
 ];
 
 let Enl = [
 
-    "","",
+    "",ACol[0],
 
 
     ""];
@@ -24,11 +24,11 @@ let Title=[
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
     
+    "Eurocopa",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
     
-    /*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
     /*"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",/*"Clasificatorio para la Copa del Mundo",*/
     /*"Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",*/
-    "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
+    /*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
     /*"Champions League <b>(Final)</b>",/*"Champions League <b>(Cuartos)</b>",*/
     "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
