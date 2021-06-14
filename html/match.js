@@ -1,13 +1,13 @@
 let Match=[    
- " Inglaterra - Croacia "," Austria - North Macedonia "," Países Bajos - Ucrania ",
- " Brasil - Venezuela "," Colombia - Ecuador ",
- " Millonarios - Junior ",
+ " Escocia - República Checa "," Polonia - Eslovaquia "," España - Suecia ",
+ " Argentina - Chile "," Paraguay - Bolivia ",
+ " La Equidad - Deportes Tolima ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517147/england-vs-croatia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517148/austria-vs-north-macedonia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517149/netherlands-vs-ukraine/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794792/brazil-vs-venezuela/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794791/colombia-vs-ecuador/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4012297/millonarios-vs-junior/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517150/scotland-vs-czech-republic/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517151/poland-vs-slovakia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517152/spain-vs-sweden/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794788/argentina-vs-chile/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794790/paraguay-vs-bolivia/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4017027/la-equidad-vs-deportes-tolima/ ',
 ];
 
 let Enl = [
