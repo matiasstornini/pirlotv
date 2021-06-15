@@ -1,13 +1,9 @@
 let Match=[    
- " Escocia - República Checa "," Polonia - Eslovaquia "," España - Suecia ",
- " Argentina - Chile "," Paraguay - Bolivia ",
- " La Equidad - Deportes Tolima ",
+" Hungría - Portugal "," Francia - Alemania ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517150/scotland-vs-czech-republic/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517151/poland-vs-slovakia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517152/spain-vs-sweden/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794788/argentina-vs-chile/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794790/paraguay-vs-bolivia/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4017027/la-equidad-vs-deportes-tolima/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517153/hungary-vs-portugal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517154/france-vs-germany/ ',
 ];
 
 let Enl = [
