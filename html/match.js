@@ -1,9 +1,9 @@
 let Match=[    
-" Hungría - Portugal "," Francia - Alemania ",
+" Finlandia - Rusia "," Turquía - Gales "," Italia - Suiza ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517153/hungary-vs-portugal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517154/france-vs-germany/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517155/finland-vs-russia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517156/turkey-vs-wales/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517157/italy-vs-switzerland/ ',
 ];
 
 let Enl = [
