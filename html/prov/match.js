@@ -15,7 +15,13 @@ let Enl = [
     "","","","","","","","","",
     
 ];
+let Enl2 = [
 
+    ext[0],
+    "","","","",
+    "","","","","","","","","",
+    
+];
 let Title=[
     /*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",*/
     /*"Coppa Italia <b>(Final)</b>",*/
