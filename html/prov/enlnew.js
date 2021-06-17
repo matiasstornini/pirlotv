@@ -1,1 +1,1 @@
-let btn1 = a;
+let btn1 = '1';
