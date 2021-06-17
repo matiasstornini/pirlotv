@@ -19,6 +19,11 @@ let Enl = [
 
     ""];
 
+let HOY = "17/06/2021";
+let Abtns = [
+1,0,0
+];
+
 let Title=[
     /*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",*/
     /*"Coppa Italia <b>(Final)</b>",*/
