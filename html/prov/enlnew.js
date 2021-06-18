@@ -1,4 +1,4 @@
-let btn1 = 1;
+let btn1 = 2;
 function formatDate(date) {
     var year = date.getFullYear().toString();
     var month = (date.getMonth() + 101).toString().substring(1);
