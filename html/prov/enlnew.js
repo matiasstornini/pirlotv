@@ -1,13 +1,11 @@
 let btn1 = "0";
 function formatDate(date) {
-    var d = new Date(date),
-        month = '' + (d.getMonth() + 1),
-        day = '' + d.getDate(),
-        year = d.getFullYear();
-
-    if (month.length < 2) month = '0' + month;
-    if (day.length < 2) day = '0' + day;
-
-    return [year, month, day].join('-');
+    var year = date.getFullYear().toString();
+    var month = (date.getMonth() + 101).toString().substring(1);
+    var day = (date.getDate() + 100).toString().substring(1);
+    return year + "-" + month + "-" + day;
 }
-let datef = formatDate;
+
+//Usage example:
+//alert(formatDate(new Date()));
+let datef = ormatDate(new Date());
