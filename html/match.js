@@ -1,11 +1,9 @@
 let Match=[    
- " Suecia - Eslovaquia "," Croacia - República Checa "," Inglaterra - Escocia ",
- " Chile - Bolivia "," Argentina - Uruguay ",
+ " Hungría - Francia "," Portugal - Alemania "," España - Polonia ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517161/sweden-vs-slovakia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517162/croatia-vs-czech-republic/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517163/england-vs-scotland/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794794/chile-vs-bolivia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794795/argentina-vs-uruguay/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517164/hungary-vs-france/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517165/portugal-vs-germany/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517166/spain-vs-poland/ ',
 ];
 
 let Enl = [
@@ -16,7 +14,7 @@ let Enl = [
 
     ""];
 
-let HOY = "18/06/2021";
+let HOY = "19/06/2021";
 let Abtns = [
 1,0,0
 ];
