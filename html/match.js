@@ -1,11 +1,9 @@
 let Match=[    
- " Macedonia del Norte - Países Bajos "," Ucrania - Austria "," Finlandia - Bélgica "," Rusia - Dinamarca ",
-  " Uruguay - Chile "," Argentina - Paraguay ",
+ " Croacia - Escocia "," República Checa - Inglaterra ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517170/north-macedonia-vs-netherlands/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517169/ukraine-vs-austria/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517171/finland-vs-belgium/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517172/russia-vs-denmark/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794800/uruguay-vs-chile/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794802/argentina-vs-paraguay/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517174/croatia-vs-scotland/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517173/czech-republic-vs-england/ ',
 ];
 
 let Enl = [
@@ -16,7 +14,7 @@ let Enl = [
 
     ""];
 
-let HOY = "20/06/2021";
+let HOY = "22/06/2021";
 let Abtns = [
 1,0,0
 ];
