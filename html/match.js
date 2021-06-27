@@ -10,7 +10,7 @@ let Est=[
 
 let Enl = [
     "","",
-    AConmebol[1],AConmebol[0],
+    "","",
 
 
 
