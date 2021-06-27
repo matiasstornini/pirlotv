@@ -1,9 +1,11 @@
 let Match=[    
-" Gales - Dinamarca "," Italia - Austria ",
+" Países Bajos - República Checa "," Bélgica - Portugal ",
+" Brasil - Ecuador "," Venezuela - Perú ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517179/wales-vs-denmark/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517180/italy-vs-austria/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517181/netherlands-vs-czech-republic/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517182/belgium-vs-portugal/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794816/brazil-vs-ecuador/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794817/venezuela-vs-peru/ ',
 ];
 
 let Enl = [
@@ -11,9 +13,10 @@ let Enl = [
     "","",
 
 
+
     ""];
 
-let HOY = "26/06/2021";
+let HOY = "27/06/2021";
 let Abtns = [
 1,0,0
 ];
@@ -29,7 +32,7 @@ let Title=[
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
     
-    "Eurocopa","Eurocopa","Eurocopa","Eurocopa",/*"Eurocopa",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
+    "Eurocopa","Eurocopa",/*"Eurocopa","Eurocopa",/*"Eurocopa",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>","Selecciones <b>(Amistoso)</b>",/*"Europa League <b>(Semifinal)</b>",/*"Europa League <b>(Cuartos)</b>","Europa League <b>(Cuartos)</b>",/*"Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>","Europa League <b>(Octavos)</b>",*/
     "Copa America","Copa America",
     /*"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",/*"Clasificatorio para la Copa del Mundo",*/
     /*"Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",*/
