@@ -1,4 +1,4 @@
-let btn1 =10;
+let btn1 =0;
 let btn2 =30;
 function formatDate(date) {
     var year = date.getFullYear().toString();
