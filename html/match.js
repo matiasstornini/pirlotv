@@ -1,17 +1,19 @@
 let Match=[    
-" Países Bajos - República Checa "," Bélgica - Portugal ",
-" Brasil - Ecuador "," Venezuela - Perú ",
+ " Croacia - España "," Francia - Suiza ",
+ " Bolivia - Argentina "," Uruguay - Paraguay ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517181/netherlands-vs-czech-republic/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517182/belgium-vs-portugal/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794816/brazil-vs-ecuador/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794817/venezuela-vs-peru/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517183/croatia-vs-spain/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517184/france-vs-switzerland/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794813/bolivia-vs-argentina/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3794812/uruguay-vs-paraguay/ ',
 ];
 
 let Enl = [
     "","",
     "","",
-    
+
+
+
     ""];
 
 let HOY = "27/06/2021";
