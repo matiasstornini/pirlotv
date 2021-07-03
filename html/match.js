@@ -1,11 +1,11 @@
 let Match=[    
- " Suiza - España "," Bélgica - Italia ",
- " Perú - Paraguay "," Brasil - Chile ",
+ " República Checa - Dinamarca "," Ucrania - Inglaterra ",
+ " Uruguay - Colombia "," Argentina - Ecuador ",
 ];
 
 let Est=[
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517193/switzerland-vs-spain/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517192/belgium-vs-italy/ ',
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008127/peru-vs-paraguay/ ','https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008128/brazil-vs-chile/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4040915/czech-republic-vs-denmark/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517190/ukraine-vs-england/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008129/uruguay-vs-colombia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008130/argentina-vs-ecuador/ ',
 ];
 
 let Enl = [
@@ -14,7 +14,7 @@ let Enl = [
 
     ""];
 
-let HOY = "02/07/2021";
+let HOY = "03/07/2021";
 let Abtns = [
 1,0,0
 ];
