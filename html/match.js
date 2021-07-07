@@ -1,20 +1,18 @@
 let Match=[    
-  " Italia - España ",
-  " Argentina - Colombia ",
+" Inglaterra - Dinamarca ",
 ];
 
 let Est=[
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517189/italy-vs-spain/ ',
-'https://pirlotv2.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008132/argentina-vs-colombia/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/3517188/england-vs-denmark/ ',
 ];
 
 let Enl = [
-    "","",
+    "",AArg[0],
     "","",
 
     ""];
 
-let HOY = "06/07/2021";
+let HOY = "07/07/2021";
 let Abtns = [
 1,0,0
 ];
