@@ -1,9 +1,9 @@
 let Match=[    
- " Colombia - Perú ",
+" Argentina - Brasil ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008133/colombia-vs-peru/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4008134/argentina-vs-brazil/ ',
 ];
 
 let Enl = [
@@ -11,7 +11,7 @@ let Enl = [
 
     ""];
 
-let HOY = "09/07/2021";
+let HOY = "10/07/2021";
 let Abtns = [
 1,0,0
 ];
