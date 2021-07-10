@@ -68,7 +68,7 @@ let lib = [
 ];
 let arg = [
 ""+blog+"arg-0-m3u8.html",""+blog+"arg-0b-m3u8.html",""+blog+"arg-0c-m3u8.html",
-""+blog+"arg-1-m3u8.html",""+blog+"arg-1b-m3u8.html","https://pirlotv2.herokuapp.com/full/app/dtv.php?url=https://int21h.blowerclaster.xyz/json/brasil.json?zyhuoa&_=1625957254608",
+""+blog+"arg-1-m3u8.html",""+blog+"arg-1b-m3u8.html",""+blog+"arg-1c-m3u8.html",
 ""+blog+"arg-2-m3u8.html",""+blog+"arg-2b-m3u8.html",""+blog+"arg-2c-m3u8.html",
 ""+blog+"arg-3-m3u8.html"
 
