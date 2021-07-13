@@ -19,7 +19,7 @@ let Abtns = [
 1,0,0
 ];
 
-let Title=[
+export let Title=[
     /*"Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>","Premier League <b>(Inglaterra)</b>",/*"Premier League <b>(Inglaterra)</b>",*/
     /*"Coppa Italia <b>(Final)</b>",*/
 
