@@ -1,20 +1,20 @@
 let Match=[    
- " Boca Juniors - Atlético Mineiro "," Cerro Porteño - Fluminense "," São Paulo - Racing Club ",
- " LDU Quito - Grêmio "," América de Cali - Athletico-PR ",
+ " Universidad Católica - Palmeiras "," Vélez Sarsfield - Barcelona "," Defensa y Justicia - Flamengo "," River Plate - Argentinos Juniors ",
+ " Sporting Cristal - Arsenal "," Independiente del Valle - RB Bragantino "," Junior - Libertad ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013897/boca-juniors-vs-atletico-mineiro/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013901/cerro-porteno-vs-fluminense/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013905/sao-paulo-vs-racing-club/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015065/ldu-quito-vs-gremio/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015063/america-de-cali-vs-athletico-pr/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013899/universidad-catolica-vs-palmeiras/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013903/velez-sarsfield-vs-barcelona/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013895/defensa-y-justicia-vs-flamengo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013907/river-plate-vs-argentinos-juniors/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015071/sporting-cristal-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015059/independiente-del-valle-vs-rb-bragantino/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015067/junior-vs-libertad/ ',
 ];
 
 let Enl = [
-    "","","",
- "","",
+"","","","",
+"","","",
 
     ""];
 
-let HOY = "13/07/2021";
+let HOY = "14/07/2021";
 let Abtns = [
 1,0,0
 ];
@@ -35,7 +35,7 @@ let Title=[
     /*"Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
     /*"Champions League <b>(Final)</b>",/*"Champions League <b>(Cuartos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
