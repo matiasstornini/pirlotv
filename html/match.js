@@ -1,19 +1,17 @@
 let Match=[    
-" Olimpia - Internacional ",
- " Santos - Independiente "," Deportivo Táchira - Rosario Central "," Nacional - Peñarol ",
+" Unión Santa Fe - Boca Juniors "," Sarmiento - Estudiantes ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013909/olimpia-vs-internacional/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015061/santos-vs-independiente/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015069/deportivo-tachira-vs-rosario-central/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015057/nacional-vs-penarol/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043775/union-santa-fe-vs-boca-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043780/sarmiento-vs-estudiantes/ ',
 ];
 
 let Enl = [
-"","","","","","",
+"","",
 
     ""];
 
-let HOY = "15/07/2021";
+let HOY = "16/07/2021";
 let Abtns = [
 1,0,0
 ];
