@@ -1,20 +1,19 @@
 let Match=[    
-" Atlético Mineiro - Boca Juniors "," Racing Club - São Paulo ",
-" Grêmio - LDU Quito "," Athletico-PR - América de Cali ",
+" Barcelona - Vélez Sarsfield "," Palmeiras - Universidad Católica "," Argentinos Juniors - River Plate "," Flamengo - Defensa y Justicia ",
+" Arsenal - Sporting Cristal "," Libertad - Junior "," RB Bragantino - Independiente del Valle ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013898/atletico-mineiro-vs-boca-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013906/racing-club-vs-sao-paulo/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015066/gremio-vs-ldu-quito/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015064/athletico-pr-vs-america-de-cali/ ',
-];
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013904/barcelona-vs-velez-sarsfield/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013900/palmeiras-vs-universidad-catolica/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013908/argentinos-juniors-vs-river-plate/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013896/flamengo-vs-defensa-y-justicia/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015072/arsenal-vs-sporting-cristal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015068/libertad-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015060/rb-bragantino-vs-independiente-del-valle/ ',];
 
 let Enl = [
-    "",ALib[0],
-    "",Extra[0],"",
+    "","","","",
+    "","","",
     
     ""];
 
-let HOY = "20/07/2021";
+let HOY = "21/07/2021";
 let Abtns = [
 1,0,0
 ];
@@ -35,7 +34,7 @@ let Title=[
     /*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
     /*"Champions League <b>(Final)</b>",/*"Champions League <b>(Cuartos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
