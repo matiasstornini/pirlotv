@@ -8,8 +8,8 @@ let Est=[
 'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015072/arsenal-vs-sporting-cristal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015068/libertad-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015060/rb-bragantino-vs-independiente-del-valle/ ',];
 
 let Enl = [
-    "","",ALib[0],Extra[0],
-    "",Extra[1],Extra[2],
+    "","","","",
+    "","","",
     
     ""];
 
