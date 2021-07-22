@@ -1,5 +1,5 @@
 let btn1 =9;
-let btn2 =10;
+let btn2 =100;
 function formatDate(date) {
     var year = date.getFullYear().toString();
     var month = (date.getMonth() + 101).toString().substring(1);
