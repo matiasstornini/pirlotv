@@ -1,19 +1,23 @@
 let Match=[    
-" Barcelona - Vélez Sarsfield "," Palmeiras - Universidad Católica "," Argentinos Juniors - River Plate "," Flamengo - Defensa y Justicia ",
-" Arsenal - Sporting Cristal "," Libertad - Junior "," RB Bragantino - Independiente del Valle ",
+" Egipto Sub-23 - España Sub-23 "," Mexico Sub-23 - Francia Sub-23 "," Nueva Zelanda Sub-23 - República de Corea Sub-23 "," Costa de Marfil Sub-23 - Arabia Saudita Sub-23 "," Argentina Sub-23 - Australia Sub-23 "," Honduras Sub-23 - Rumania Sub-23 "," Japón Sub-23 - Sur África Sub-23 "," Brasil Sub-23 - Alemania Sub-23 ",
+ " Internacional - Olimpia ",
+  " Independiente - Santos "," Peñarol - Nacional "," Rosario Central - Deportivo Táchira ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013904/barcelona-vs-velez-sarsfield/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013900/palmeiras-vs-universidad-catolica/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013908/argentinos-juniors-vs-river-plate/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013896/flamengo-vs-defensa-y-justicia/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015072/arsenal-vs-sporting-cristal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015068/libertad-vs-junior/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015060/rb-bragantino-vs-independiente-del-valle/ ',];
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050881/egypt-u23-vs-spain-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050882/mexico-u23-vs-france-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050883/new-zealand-u23-vs-korea-republic-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050884/cote-divoire-u23-vs-saudi-arabia-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050885/argentina-u23-vs-australia-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050887/honduras-u23-vs-romania-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050886/japan-u23-vs-south-africa-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4050888/brazil-u23-vs-germany-u23/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4013910/internacional-vs-olimpia/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015062/independiente-vs-santos/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015058/penarol-vs-nacional/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4015070/rosario-central-vs-deportivo-tachira/ ',
+];
 
 let Enl = [
-    "","","","",
+    Extra[0],"","","","","","",
+    "",
     "","","",
     
     ""];
 
-let HOY = "21/07/2021";
+let HOY = "22/07/2021";
 let Abtns = [
 1,0,0
 ];
@@ -34,7 +38,8 @@ let Title=[
     /*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
     /*"Champions League <b>(Final)</b>",/*"Champions League <b>(Cuartos)</b>",*/
-    "Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    "Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos",
+    "Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
     
     
