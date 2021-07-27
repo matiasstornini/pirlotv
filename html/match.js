@@ -1,18 +1,18 @@
 let Match=[
- " Talleres Córdoba - Arsenal "," Argentinos Juniors - Newell's Old Boys ",
+" Huracán - Colón "," Aldosivi - Racing Club "," Boca Juniors - San Lorenzo ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043798/talleres-cordoba-vs-arsenal/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043797/argentinos-juniors-vs-newells-old-boys/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043812/huracan-vs-colon/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043808/aldosivi-vs-racing-club/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043802/boca-juniors-vs-san-lorenzo/ ',
 ];
 
 let Enl = [
-    "","",
+    "","","",
 
 
     ""];
 
-let HOY = "26/07/2021";
+let HOY = "27/07/2021";
 let Abtns = [
 1,0,0
 ];

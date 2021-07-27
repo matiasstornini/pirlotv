@@ -1,12 +1,12 @@
 var dt=[
-"1627333200", "1627341300",
+"1627414200", "1627422300", "1627430400", 
 
 ];
 
 var dtprox=["1618763400","1618771500","1618779600","1618790400",];
 
 var dta = [];
-for (var i = 0; i <= 30; i++) {
+for (var i = 0; i <= dt.length; i++) {
 
 	var date = new Date(dt[i] * 1000);
 	// Hours part from the timestamp
