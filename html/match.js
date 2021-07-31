@@ -1,5 +1,5 @@
 let Match=[
-  "Stuttgart - Barcelona",   "Wolfsburg - Atlético Madrid","Nice - Milan","Olympique Marseille - Villarreal",
+  " Stuttgart - Barcelona",   " Wolfsburg - Atlético Madrid"," Nice - Milan"," Olympique Marseille - Villarreal",
   " Colón - Godoy Cruz "," Lanús - Unión Santa Fe "," Racing Club - Sarmiento "," Platense - Independiente ",
    " Deportes Tolima - Alianza Petrolera "," Deportivo Cali - Atlético Bucaramanga "," Medellín - Junior ",
 
