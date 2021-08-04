@@ -1,28 +1,25 @@
 let Match=[
-  " Mexico Sub-23 - Brasil Sub-23 "," Japón Sub-23 - España Sub-23 ",
-   " Fluminense - Cerro Porteño ",
-    " Santa Fe - Atlético Nacional ",
+ " Salzburg vs Barcelona"," Cádiz vs Atlético Madrid"," Valencia vs Milan"," Chelsea vs Tottenham Hotspur"," Leicester City vs Villarreal",
+ " Tigre - Independiente "," Boca Juniors - River Plate ",
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4093086/mexico-u23-vs-brazil-u23/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4086553/japan-u23-vs-spain-u23/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4072048/fluminense-vs-cerro-porteno/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060718/santa-fe-vs-atletico-nacional/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4075504/salzburg-vs-barcelona/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4091767/cadiz-vs-atletico-madrid/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4082298/valencia-vs-milan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4061390/chelsea-vs-tottenham-hotspur/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4093116/leicester-city-vs-villarreal/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4069065/tigre-vs-independiente/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4091768/boca-juniors-vs-river-plate/ ',
+
 ];
 
 let Enl = [
     "","",
-    "",
-    ACol[0],
-    
+    "","",
 
     "","","","",
     "","",
 
     ""];
 
-let HOY = "03/08/2021";
+let HOY = "04/08/2021";
 let Abtns = [
 1,0,0
 ];
@@ -37,9 +34,11 @@ let Title=[
     /*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
-    "Juegos Olimpicos","Juegos Olimpicos",/*"Juegos Olimpicos","Juegos Olimpicos",/*"Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos",/**/
-   /*"Amistoso","Amistoso","Amistoso","Amistoso",/**/
-    "Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+    /*"Juegos Olimpicos","Juegos Olimpicos",/*"Juegos Olimpicos","Juegos Olimpicos",/*"Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos","Juegos Olimpicos",/**/
+   "Amistoso","Amistoso","Amistoso","Amistoso","Amistoso",/**/
+    /*"Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+   
+    "Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
     /*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>","Liga Profesional <b>(Argentina)</b>",/*"Liga Profesional <b>(Argentina)</b>",*/
     "Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",/*"Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>","Liga BetPlay <b>(Colombia)</b>",*/
 
@@ -49,7 +48,6 @@ let Title=[
     
     /*"Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo","Clasificatorio para la Copa del Mundo",/*"Clasificatorio para la Copa del Mundo",*/
    /* "RECOPA Sudamericana (VUELTA)",*/
-    "Copa Argentina",/*"Copa Argentina","Copa Argentina",*/
 
 
 
