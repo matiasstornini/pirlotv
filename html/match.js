@@ -1,33 +1,27 @@
 let Match=[
-  " Brasil Sub-23 - España Sub-23 ",
-  " Leicester City - Manchester City ",
-  " Olympique Lyonnais - Brest "," Troyes - PSG ",
- " Banfield - Talleres Córdoba "," Unión Santa Fe - San Lorenzo "," Huracán - Lanús "," Godoy Cruz - River Plate ",
-  " América de Cali - Once Caldas "," Atlético Nacional - Deportivo Cali "," Millonarios - Santa Fe ",
+"Real Madrid - Milan","Barcelona - Juventus",
+  " Gimnasia La Plata - Atlético Tucumán "," Vélez Sarsfield - Colón "," Boca Juniors - Argentinos Juniors "," Independiente - Racing Club ",
+  " La Equidad - Medellín "," Junior - Deportes Tolima "," Alianza Petrolera - Deportivo Pasto ",
 
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4093784/brazil-u23-vs-spain-u23/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4069580/leicester-city-vs-manchester-city/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4042762/olympique-lyonnais-vs-brest/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4042770/troyes-vs-psg/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043828/banfield-vs-talleres-cordoba/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043827/union-santa-fe-vs-san-lorenzo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043839/huracan-vs-lanus/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043838/godoy-cruz-vs-river-plate/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060722/america-de-cali-vs-once-caldas/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060725/atletico-nacional-vs-deportivo-cali/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060729/millonarios-vs-santa-fe/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4065083/real-madrid-vs-milan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4093350/barcelona-vs-juventus/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043836/gimnasia-la-plata-vs-atletico-tucuman/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043837/velez-sarsfield-vs-colon/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043829/boca-juniors-vs-argentinos-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043833/independiente-vs-racing-club/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060727/la-equidad-vs-medellin/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060728/junior-vs-deportes-tolima/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060721/alianza-petrolera-vs-deportivo-pasto/ ',
 
 
 ];
 
 let Enl = [
-    "",
-    "",
+    "","","","",
+    "","","",
     "","",
-    "","","",AArg[0],
-    "","",ACol[0],
 
     ""];
 
-let HOY = "07/08/2021";
+let HOY = "08/08/2021";
 let Abtns = [
 1,0,0
 ];
@@ -42,11 +36,11 @@ let Title=[
     /*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",/*"Serie A <b>(Italia)</b>","Serie A <b>(Italia)</b>",*/
 
     /*"Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>","Bundesliga <b>(Alemania)</b>",/*"Bundesliga <b>(Alemania)</b>",*/
-    "Juegos Olimpicos",
-    "Community Shield <b>(Inglaterra)</b>",
-    "Ligue 1 <b>(Francia)</b>","Ligue 1 <b>(Francia)</b>",
+    /*"Juegos Olimpicos",/**/
+    /*"Community Shield <b>(Inglaterra)</b>",/**/
+    /*"Ligue 1 <b>(Francia)</b>","Ligue 1 <b>(Francia)</b>",/**/
 
-   /*"Amistoso","Amistoso","Amistoso","Amistoso","Amistoso",/**/
+   "Amistoso","Amistoso",/*"Amistoso","Amistoso","Amistoso",/**/
     /*"Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
    
     /*"Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
