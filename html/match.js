@@ -1,28 +1,22 @@
 let Match=[
-"Real Madrid - Milan","Barcelona - Juventus",
-  " Gimnasia La Plata - Atlético Tucumán "," Vélez Sarsfield - Colón "," Boca Juniors - Argentinos Juniors "," Independiente - Racing Club ",
-  " La Equidad - Medellín "," Junior - Deportes Tolima "," Alianza Petrolera - Deportivo Pasto ",
+" Aldosivi - Defensa y Justicia "," Arsenal - Patronato "," Central Córdoba SdE - Estudiantes ",
 
 
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4065083/real-madrid-vs-milan/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4093350/barcelona-vs-juventus/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043836/gimnasia-la-plata-vs-atletico-tucuman/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043837/velez-sarsfield-vs-colon/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043829/boca-juniors-vs-argentinos-juniors/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043833/independiente-vs-racing-club/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060727/la-equidad-vs-medellin/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060728/junior-vs-deportes-tolima/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4060721/alianza-petrolera-vs-deportivo-pasto/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043835/aldosivi-vs-defensa-y-justicia/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043831/arsenal-vs-patronato/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4043830/central-cordoba-sde-vs-estudiantes/ ',
 
 
 ];
 
 let Enl = [
-    "","",
-    "","","","",
-    "","",ACol[0],
-    "","",
+    "","","",
+    "","","","","",
 
     ""];
 
-let HOY = "08/08/2021";
+let HOY = "09/08/2021";
 let Abtns = [
 1,0,0
 ];
@@ -41,7 +35,7 @@ let Title=[
     /*"Community Shield <b>(Inglaterra)</b>",/**/
     /*"Ligue 1 <b>(Francia)</b>","Ligue 1 <b>(Francia)</b>",/**/
 
-   "Amistoso","Amistoso",/*"Amistoso","Amistoso","Amistoso",/**/
+   /*"Amistoso","Amistoso",/*"Amistoso","Amistoso","Amistoso",/**/
     /*"Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
    
     /*"Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
