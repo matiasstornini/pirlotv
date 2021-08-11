@@ -1,24 +1,24 @@
 let Match=[
- " São Paulo - Palmeiras ",
-  " Rosario Central - RB Bragantino ",
-
-
+ " Chelsea - Villarreal ",
+  " Olimpia - Flamengo "," River Plate - Atlético Mineiro ",
+  " Sporting Cristal - Peñarol ",
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4075513/sao-paulo-vs-palmeiras/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4077465/rosario-central-vs-rb-bragantino/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4039036/chelsea-vs-villarreal/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4077469/olimpia-vs-flamengo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4075515/river-plate-vs-atletico-mineiro/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4077463/sporting-cristal-vs-penarol/ ',
 
 
 ];
 
 let Enl = [
-    Extra[0],"","",
+    "","",
     "","","","","",
 
     ""];
 
-let HOY = "10/08/2021";
+let HOY = "11/08/2021";
 let Abtns = [
 1,0,0
 ];
@@ -38,7 +38,8 @@ let Title=[
     /*"Ligue 1 <b>(Francia)</b>","Ligue 1 <b>(Francia)</b>",/**/
 
    /*"Amistoso","Amistoso",/*"Amistoso","Amistoso","Amistoso",/**/
-    "Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+   "Super Copa de Europa",
+    "Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
    
     /*"Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
