@@ -1,26 +1,24 @@
 let Match=[
- " Chelsea - Villarreal ",
-  " Olimpia - Flamengo "," River Plate - Atlético Mineiro ",
-  " Sporting Cristal - Peñarol ",
+" Fluminense - Barcelona ",
+ " LDU Quito - Athletico-PR "," Santos - Libertad ",
+
 ];
 
 let Est=[
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4039036/chelsea-vs-villarreal/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4077469/olimpia-vs-flamengo/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4075515/river-plate-vs-atletico-mineiro/ ',
-'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4077463/sporting-cristal-vs-penarol/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4094605/fluminense-vs-barcelona/ ',
+'https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4075511/ldu-quito-vs-athletico-pr/ ','https://pirlotv4.herokuapp.com/full/app/test/statistics?url=https://m.livesoccertv.com/es/match/4077467/santos-vs-libertad/ ',
 
 
 ];
 
 let Enl = [
     "",
-    "",ALib[0],
-    "",
+    "","",
     "","","",
 
     ""];
 
-let HOY = "11/08/2021";
+let HOY = "12/08/2021";
 let Abtns = [
 1,0,0
 ];
@@ -40,8 +38,8 @@ let Title=[
     /*"Ligue 1 <b>(Francia)</b>","Ligue 1 <b>(Francia)</b>",/**/
 
    /*"Amistoso","Amistoso",/*"Amistoso","Amistoso","Amistoso",/**/
-   "Super Copa de Europa",
-    "Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
+   /*"Super Copa de Europa",*/
+    "Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores","Conmebol Libertadores",/*"Conmebol Libertadores",/*"Conmebol Libertadores",*/
     "Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana","Conmebol Sudamericana",/*"Conmebol Sudamericana","Conmebol Sudamericana",*/
    
     /*"Copa Argentina","Copa Argentina",/*"Copa Argentina",*/
