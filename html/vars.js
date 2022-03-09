@@ -3,6 +3,7 @@ console.log("hola");
 
 
 var blog = "https://pirlotv-redirecciones.blogspot.com/2020/09/";
+var blog2 = "https://apps-innova-redirects.blogspot.com/2022/03/";
 
 let esp = [
 ""+blog+"espa-0-m3u8.html",""+blog+"esp-0b-m3u8.html",""+blog+"esp-0c-m3u8.html",
@@ -110,5 +111,15 @@ let ext = [
 ""+blog+"extra-0f-m3u8.html",
 ""+blog+"extra-0g-m3u8.html",
 ""+blog+"extra-0h-m3u8.html",
+
+];
+
+let chs = [
+""+blog2+"href-ch-1-m3u8.html",
+""+blog2+"href-ch-2-m3u8.html",
+""+blog2+"href-ch-3-m3u8.html",
+""+blog2+"href-ch-4-m3u8.html",
+""+blog2+"href-ch-5-m3u8.html",
+""+blog2+"href-ch-6-m3u8.html",
 
 ];
