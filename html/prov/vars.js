@@ -92,6 +92,14 @@ let go = [
 ""+blog+"col-0c.html",
 ""+blog+"bundes-2.html",""+blog+"bundes-2b.html"
 
+];let cpa = [
+""+blog+"col-0.html",""+blog+"col-0b.html",
+""+blog+"col-0c.html",
+""+blog+"col-0c.html",
+""+blog+"col-0c.html",
+""+blog+"col-0c.html",
+""+blog+"bundes-2.html",""+blog+"bundes-2b.html"
+
 ];
 
 let ext = [
