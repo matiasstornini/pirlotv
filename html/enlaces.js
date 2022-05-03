@@ -143,6 +143,16 @@ let Extra = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
 ]
+let Extra2 = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext2[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext2[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext2[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext2[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext2[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
+]
 
 let Chs = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
