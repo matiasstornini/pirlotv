@@ -1,7 +1,7 @@
 
 var blog = "https://apps-innova-redirects.blogspot.com/2020/04/";
 //var blog = "https://pirlotv-redirecciones.blogspot.com/2020/09/";
-var blog2 = "https://apps-innova-redirects.blogspot.com/2022/03/";
+var blog2 = "https://adiccfut.github.io/react-drive-cms/";
 
 let esp = [
 ""+blog+"esp-0.html",""+blog+"esp-0b.html",""+blog+"esp-0c.html",
@@ -114,11 +114,23 @@ let ext = [
 
 ];
 let chs = [
-""+blog2+"href-ch-1-m3u8.html",
-""+blog2+"href-ch-2-m3u8.html",
-""+blog2+"href-ch-3-m3u8.html",
-""+blog2+"href-ch-4-m3u8.html",
-""+blog2+"href-ch-5-m3u8.html",
-""+blog2+"href-ch-6-m3u8.html",
+""+blog+"href-ch-1-m3u8.html",
+""+blog+"href-ch-2-m3u8.html",
+""+blog+"href-ch-3-m3u8.html",
+""+blog+"href-ch-4-m3u8.html",
+""+blog+"href-ch-5-m3u8.html",
+""+blog+"href-ch-6-m3u8.html",
+
+];
+
+let ext2 = [
+""+blog2+"articles/1h6I9CnTCcmQ6QW7AiODYJO9jnr2eY-UPpdzHu51dzXg/extra-0a ",
+""+blog2+"articles/1HMvzcsYMlULcGOSeEWn3jPDqhCYAK2afH5MnlFAIfds/extra-0b ",
+""+blog2+"articles/1XIXzruQvUfgzyY4oxtBzuAK5m3b8Auc5fbWl_ftonoM/extra-0c ",
+""+blog2+"articles/1Pql_fGwsZEh8XVqU-OMUbm1Kx_Ck4B4wJ4oKiZh25UY/extra-0d ",
+""+blog2+"articles/18tFEVcqiDlerAE5IOr7aD03JUg9RmUSyynzCGq0xvSY/extra-0e ",
+""+blog2+" ",
+""+blog2+" ",
+""+blog2+" ",
 
 ];
