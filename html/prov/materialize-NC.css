@@ -6,16 +6,19 @@
   @font-face {
       font-family: 'OpenSans-Light';
       src: url('fonts/OpenSansCondensed-Light.ttf');
+      font-display: swap;
   }
 
   @font-face {
       font-family: 'OpenSans-LightItalic';
       src: url('fonts/OpenSansCondensed-LightItalic.ttf');
+      font-display: swap;
   }
 
   @font-face {
       font-family: 'OpenSans-Bold';
       src: url('fonts/OpenSansCondensed-Bold.ttf');
+      font-display: swap;
   }
 
   abbr{display:none;}
@@ -4763,7 +4766,7 @@ small {
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
-  color: #ffab40;
+  /*color: #ffab40;*/
   margin-right: 24px;
   -webkit-transition: color .3s ease;
   transition: color .3s ease;
@@ -4771,7 +4774,7 @@ small {
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating):hover {
-  color: #ffd8a6;
+  /*color: #ffd8a6;*/
 }
 
 .card .card-reveal {
